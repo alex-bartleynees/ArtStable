@@ -1,0 +1,17 @@
+.hero {
+  height: 80rem;
+  width: 100%;
+  margin-top: 2rem;
+  &__image {
+    background-image: url("/img/artstabledata/Living\ Art\ Stable-4676\ copy.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+  }
+}
+
+.welcome {
+  margin-top: 6rem;
+}
