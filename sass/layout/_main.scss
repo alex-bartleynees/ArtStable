@@ -1,16 +1,7 @@
 @use "../abstracts/" as *;
-
 .container {
-  width: 80vw;
-  margin: 0 auto 0 auto;
-
-  @include respond(tab-land) {
-    width: 100vw;
-  }
-
-  @include respond(big-desktop) {
-    width: 60vw;
-  }
+  max-width: 114rem;
+  margin: 0 auto;
 }
 
 .welcome {

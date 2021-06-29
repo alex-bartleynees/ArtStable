@@ -221,18 +221,8 @@ body {
 }
 
 .container {
-  width: 80vw;
-  margin: 0 auto 0 auto;
-}
-@media only screen and (max-width: 75em) {
-  .container {
-    width: 100vw;
-  }
-}
-@media only screen and (min-width: 112.5em) {
-  .container {
-    width: 60vw;
-  }
+  max-width: 114rem;
+  margin: 0 auto;
 }
 
 .welcome__text {
@@ -275,7 +265,6 @@ body {
 
 .hero {
   height: 80rem;
-  width: 100%;
   margin-top: 2rem;
 }
 .hero__image {
