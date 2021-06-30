@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "Frontage";
+  src: url("0f73fe2416d567b92b1a87005b1dd633") format("opentype");
+}
+
+@font-face {
+  font-family: "Frontage Bold";
+  font-weight: bold;
+  src: url("d31d599977afa3a242d619f0d0d45903") format("opentype");
+}
+
+@font-face {
+  font-family: "Flama";
+  font-style: normal;
+  font-weight: normal;
+  src: url("1f74f888dbedb7ef3126a747dbc37042") format("woff");
+}
+
+@font-face {
+  font-family: "Flama Condensed";
+  font-style: normal;
+  font-weight: normal;
+  src: url("40dbd95b6fe8dd6c123f99717fd3e0b7") format("woff");
+}
+
+@font-face {
+  font-family: "Flama Condensed Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("12696eb1d029e9daf2d77e468889ad4e") format("woff");
+}
+
+@font-face {
+  font-family: "Flama Italic";
+  font-style: normal;
+  font-weight: normal;
+  src: url("4822a854079458e961da5e5d522ad8d3") format("woff");
+}
+
+@font-face {
+  font-family: "Flama Bold Italic";
+  font-style: normal;
+  font-weight: normal;
+  src: url("87ee5016c25e0270789611ccbbd4d92c") format("woff");
+}

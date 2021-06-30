@@ -2,8 +2,12 @@
 @use "base/typography";
 
 @use "components/nav";
+@use "components/button";
 
 @use "layout/header";
 @use "layout/main";
+@use "layout/offerings";
+@use "layout/rates";
+@use "layout/footer";
 
 @use "pages/home";

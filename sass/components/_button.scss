@@ -1,0 +1,20 @@
+@use "../abstracts/" as *;
+
+.btn {
+  padding: 1.2rem 3rem;
+  border: none;
+  background-color: #39c0dd;
+  transition: all 0.2s;
+
+  &__link:link,
+  &__link:visited {
+    color: $color-black;
+    text-decoration: none;
+    text-decoration: none;
+  }
+
+  &:hover {
+    background-color: $color-black;
+    color: #fff;
+  }
+}

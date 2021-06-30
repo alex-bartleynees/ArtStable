@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "Frontage";
+  src: url("387478c88b072a0fedb9e9e0991a29d6") format("opentype");
+}
+
+@font-face {
+  font-family: "Frontage Bold";
+  font-weight: bold;
+  src: url("8bab08735cff7c49299157704d522d02") format("opentype");
+}
+
+/* @font-face {
+  font-family: "Flama";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Flama"), url("../../fonts/Flama\ Regular.woff") format("woff");
+} */
+
+@font-face {
+  font-family: "Flama Condensed";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Flama Condensed"),
+    url("86be2c3635faf313f052e771aeb150c2") format("woff");
+}
+
+@font-face {
+  font-family: "Flama Condensed Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Flama Condensed Bold"),
+    url("9025b4beeceea9f2fe11149285644931") format("woff");
+}
+
+@font-face {
+  font-family: "Flama Italic";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Flama Italic"),
+    url("8ec6c6f1b1a17baccd102a2cd0c782c4") format("woff");
+}
+
+@font-face {
+  font-family: "Flama Bold Italic";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Flama Bold Italic"),
+    url("7cd032892bcabd9a8a7ebc99d955503b") format("woff");
+}

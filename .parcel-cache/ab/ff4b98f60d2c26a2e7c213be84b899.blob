@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="92578f9902f75ba85b9250ea897f9698">
+    <link rel="stylesheet" href="d5310f88be7fc038fae2056dc9270b94">
+    <title>Art Stable</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <img src="a399bce923b6e655e52705c509daa4c9" alt="artstable-logo" class="logo">
+      </div>
+      <nav class="nav">
+        <ul class="nav__list">
+          <li class="nav__item"><a class="nav__link" href="#">Welcome</a></li>
+          <li class="nav__item"><a class="nav__link" href="#">Gallery</a></li>
+          <li class="nav__item">
+            <a class="nav__link" href="#">What we offer</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="#">Rates and terms</a>
+          </li>
+          <li class="nav__item"><a class="nav__link" href="#">Reviews</a></li>
+          <li class="nav__item"><a class="nav__link" href="#">Contacts</a></li>
+        </ul>
+      </nav>
+      <div class="hero">
+        <div class="hero__image">&nbsp;</div>
+      </div>
+      <main>
+        <div class="welcome">
+          <h1 class="heading-primary">Welcome</h1>
+          <div class="welcome__text">
+            <p class="paragraph">
+              The Art Stable is your inner city sanctuary in the heart of the
+              creative Cuba quarter in Wellington, the ‘coolest little capital’
+              in the world. Located in a building that started life in the 1880s
+              as a stable, this boutique apartment combines quality, character
+              and culture to create distincitve accommodation - a peaceful,
+              art-filled retreat in the inner city.
+            </p>
+            <p class="paragraph">
+              For the past 12 years, the Art Stable was situated above Bartley &
+              Company Art, one of the city’s leading contemporary art galleries.
+              Recently the gallery moved to a bigger space nearby, across the
+              park at 22 Garrett Street, but the apartment remains distinctively
+              furnished with top quality art.
+            </p>
+            <p class="paragraph">
+              Totally self-contained, the Art Stable features one bedroom with a
+              super king or two single beds in the bedroom and a sofa bed in the
+              separate open-plan living room. Double glazing and luxurious
+              Egyptian cotton sheets and quality linen should ensure a good
+              night’s sleep. However if you open the windows sounds does come in
+              and, as we are in the inner city, noise at night is inevitable. We
+              do provide earplugs for those who need them.
+            </p>
+            <p class="paragraph">
+              A full kitchen, with light breakfast provisions, is available. If
+              you have special dietary requirements, for example you are gluten
+              free, please let us know and we will do our best to meet your
+              needs. With so many cafes right on the doorstep, you may just want
+              to eat out. The TV, on the off-chance you want a quiet evening at
+              home, has Chromecast installed. If you subscribe to Netflix, Neon,
+              Spark Sport or any streaming service you can cast it onto the Art
+              Stable TV.
+            </p>
+          </div>
+          <div class="row">
+            <div class="column">
+              <img src="26b574767af2faefb641fd005b3703d0" alt="" class="welcome__image">
+            </div>
+            <div class="column">
+              <div class="welcome__text--2">
+                <p class="paragraph">
+                  The owner Alison lives in the adjacent apartment. A born and
+                  bred Wellingtonian, she can provide advice on all the best
+                  places to see and eat as well as things to do. Just 500 metres
+                  from the city’s award winning waterfront, the Art Stable
+                  offers a warm retreat and easy walking access to everything
+                  the city has to offer – from inner city shopping and
+                  entertainment to harbour, beach and bush.
+                </p>
+
+                <p class="paragraph">
+                  Most of the year, we are happy to have one night stays but
+                  cannot accept these during holiday periods such as Christmas
+                  and Easter and during special events in Wellington.
+                </p>
+
+                <p class="paragraph">
+                  We welcome business travellers. Our prices include 15% goods
+                  and services tax which New Zealand business travellers will be
+                  able claim back.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="offerings">
+          <h2 class="heading-secondary">Offerings</h2>
+          <div class="row">
+            <div class="column">
+              <img src="05ec6214a6c32794b8e6ad193c3a019b" alt="">
+            </div>
+            <div class="column">
+              <img src="40506502460ffa443ca3b0b57cee929c" alt="">
+            </div>
+            <div class="column">
+              <img src="7a43de29fa703fcf4d7c0c27e355567b" alt="">
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="column">
+              <img src="55957f631ae06d48ed8ed01cc4d20bc2" alt="">
+            </div>
+            <div class="column">
+              <img src="40506502460ffa443ca3b0b57cee929c" alt="">
+            </div>
+            <div class="column">
+              <img src="7a43de29fa703fcf4d7c0c27e355567b" alt="">
+            </div>
+          </div>
+        </div>
+      </main>
+      <footer class="footer">
+        <a class="btn btn__link u-margin-bottom-small" target="_blank" rel="noreferrer" href="f1f86fa64dcce84ae8b3e216b750146a">Book Now</a>
+      </footer>
+    </div>
+  </body>
+</html>
+<script src="202f65accccb6071212b96a1d3c27081"></script>

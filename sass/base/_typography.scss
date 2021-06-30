@@ -1,55 +1,5 @@
 @use "../abstracts/" as *;
 
-@font-face {
-  font-family: "Frontage";
-  src: url("../../fonts/Frontage-Regular.otf") format("opentype");
-}
-
-@font-face {
-  font-family: "Frontage Bold";
-  font-weight: bold;
-  src: url("../../fonts/Frontage-Bold.otf") format("opentype");
-}
-
-@font-face {
-  font-family: "Flama";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Flama"), url("../../fonts/Flama\ Regular.woff") format("woff");
-}
-
-@font-face {
-  font-family: "Flama Condensed";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Flama Condensed"),
-    url("../../fonts/Flama\ Condensed\ Basic\ Regular.woff") format("woff");
-}
-
-@font-face {
-  font-family: "Flama Condensed Bold";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Flama Condensed Bold"),
-    url("../../fonts/FlamaCondensed-Bold.woff.ttf") format("woff");
-}
-
-@font-face {
-  font-family: "Flama Italic";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Flama Italic"),
-    url("../../fonts/Flama\ Italic.woff") format("woff");
-}
-
-@font-face {
-  font-family: "Flama Bold Italic";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Flama Bold Italic"),
-    url("../../fonts/Flama\ Bold\ Italic.woff") format("woff");
-}
-
 body {
   font-family: Flama;
   font-size: 1.2rem;
@@ -70,4 +20,17 @@ body {
   font-family: Frontage;
   font-size: 2.8rem;
   text-align: center;
+}
+
+.heading-secondary {
+  font-family: Frontage;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.btn {
+  font-family: Flama Condensed;
+  letter-spacing: 3px;
+  font-size: $default-font-size;
+  text-transform: uppercase;
 }

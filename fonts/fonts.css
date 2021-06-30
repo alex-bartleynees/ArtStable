@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "Frontage";
+  src: url("./Frontage-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Frontage Bold";
+  font-weight: bold;
+  src: url("./Frontage-Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Flama";
+  font-style: normal;
+  font-weight: normal;
+  src: url("./Flama Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Flama Condensed";
+  font-style: normal;
+  font-weight: normal;
+  src: url("./Flama Condensed Basic Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Flama Condensed Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("./FlamaCondensed-Bold.woff.ttf") format("woff");
+}
+
+@font-face {
+  font-family: "Flama Italic";
+  font-style: normal;
+  font-weight: normal;
+  src: url("./Flama Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Flama Bold Italic";
+  font-style: normal;
+  font-weight: normal;
+  src: url("./Flama Bold Italic.woff") format("woff");
+}
