@@ -157,6 +157,51 @@ body {
   background-color: #000;
   color: #fff;
 }
+.card {
+  position: relative;
+  height: 52rem;
+  width: 90%;
+  margin-top: 5rem;
+  border-radius: 3px;
+  box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+}
+.card__picture {
+  background-size: cover;
+  height: 23rem;
+  background-blend-mode: screen;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+.card__picture--1 {
+  background-image: url("IMG_9269.278a8960.jpg");
+}
+.card__picture--2 {
+  background-image: url("IMG_9264%203.9e44134f.jpg");
+}
+.card__picture--3 {
+  background-image: url("CocoOnStairs.7d366ae0.jpg");
+}
+.card__heading {
+  font-size: 2.8rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  text-align: right;
+  position: absolute;
+  top: 14rem;
+  right: 1rem;
+  width: 100%;
+}
+.card__heading-span {
+  padding: 1rem 1.5rem;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  background-image: linear-gradient(to right bottom, rgba(57, 192, 221, 0.85), rgba(8, 103, 124, 0.85));
+}
+.card__details {
+  text-align: center;
+  padding: 3rem;
+}
 .header {
   background-color: white;
   width: 100%;
@@ -223,12 +268,22 @@ body {
 .row {
   display: flex;
   flex-direction: row;
+  flex-basis: 100%;
+  flex-wrap: wrap;
 }
 .column {
+  display: flex;
+  flex-direction: column;
   flex-basis: 100%;
+  flex: 1;
+}
+@media only screen and (max-width: 56.25em) {
+  .column {
+    flex: 2;
+  }
 }
 .offerings {
-  margin-top: 3rem;
+  margin-top: 5rem;
 }
 .offerings__container {
   display: flex;
@@ -245,7 +300,8 @@ body {
   height: 5rem;
 }
 .rates {
-  height: 50rem;
+  margin-top: 5rem;
+  height: 200rem;
 }
 .footer {
   background-color: #fff;

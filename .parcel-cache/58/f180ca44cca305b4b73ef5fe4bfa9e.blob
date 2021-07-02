@@ -251,14 +251,24 @@ body {
 .row {
   display: flex;
   flex-direction: row;
+  flex-basis: 100%;
+  flex-wrap: wrap;
 }
 
 .column {
+  display: flex;
+  flex-direction: column;
   flex-basis: 100%;
+  flex: 1;
+}
+@media only screen and (max-width: 56.25em) {
+  .column {
+    flex: 2;
+  }
 }
 
 .offerings {
-  margin-top: 3rem;
+  margin-top: 5rem;
 }
 .offerings__container {
   display: flex;
@@ -276,6 +286,7 @@ body {
 }
 
 .rates {
+  margin-top: 5rem;
   height: 50rem;
 }
 
