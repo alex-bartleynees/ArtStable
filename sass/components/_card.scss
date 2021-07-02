@@ -8,6 +8,9 @@
   border-radius: 3px;
   box-shadow: $box-shadow-default;
   overflow: hidden;
+  flex: 1;
+  margin: auto;
+  margin-bottom: 3rem;
 
   &__picture {
     background-size: cover;

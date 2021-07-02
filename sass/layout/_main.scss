@@ -41,7 +41,6 @@
 .row {
   display: flex;
   flex-direction: row;
-  flex-basis: 100%;
   flex-wrap: wrap;
 }
 
@@ -51,7 +50,7 @@
   flex-basis: 100%;
   flex: 1;
 
-  @include respond(tab-port) {
-    flex: 2;
+  @include respond(phone) {
+    flex: 2 1 auto;
   }
 }
