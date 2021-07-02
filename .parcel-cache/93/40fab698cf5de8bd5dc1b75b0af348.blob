@@ -256,7 +256,7 @@ body {
 }
 .rates {
   margin-top: 5rem;
-  height: 50rem;
+  height: 200rem;
 }
 .footer {
   background-color: #fff;
