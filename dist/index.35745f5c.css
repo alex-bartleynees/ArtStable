@@ -209,12 +209,86 @@ body {
   text-align: center;
   padding: 3rem;
 }
+.slider {
+  max-width: 100rem;
+  height: 50rem;
+  margin: 0 auto;
+  position: relative;
+  /* IN THE END */
+  overflow: hidden;
+}
+.slide {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 50rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* THIS creates the animation! */
+  transition: transform 1s;
+}
+.slide > img {
+  /* Only for images that have different size than slide */
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.slider__btn {
+  position: absolute;
+  top: 40%;
+  z-index: 10;
+  border: none;
+  background: rgba(57, 192, 221, 0.3);
+  font-family: inherit;
+  color: #333;
+  border-radius: 50%;
+  height: 5.5rem;
+  width: 5.5rem;
+  font-size: 3.25rem;
+  cursor: pointer;
+}
+.slider__btn--left {
+  left: -8%;
+  transform: translate(-50%, -50%);
+}
+.slider__btn--right {
+  right: -8%;
+  transform: translate(50%, -50%);
+}
+.dots {
+  position: absolute;
+  bottom: 5%;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+}
+.dots__dot {
+  border: none;
+  background-color: #b9b9b9;
+  opacity: 0.7;
+  height: 1rem;
+  width: 1rem;
+  border-radius: 50%;
+  margin-right: 1.75rem;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+.dots__dot:last-child {
+  margin: 0;
+}
+.dots__dot--active {
+  /* background-color: #fff; */
+  background-color: #888;
+  opacity: 1;
+}
 .header {
   background-color: white;
   width: 100%;
   height: 13rem;
   top: 0;
   position: fixed;
+  z-index: 100;
 }
 .logo {
   padding-top: 2rem;
@@ -240,10 +314,6 @@ body {
   text-decoration: none;
   text-decoration: none;
   padding: 1.5rem 3rem;
-}
-.container {
-  max-width: 114rem;
-  margin: 0 auto;
 }
 .welcome__text {
   width: 50%;
@@ -325,6 +395,31 @@ body {
 .policy-details ul li:not(:last-child) {
   border-bottom: 1px solid #eee;
 }
+.reviews {
+  width: 65%;
+  position: relative;
+  margin: 5rem auto;
+}
+.review__text {
+  margin-bottom: 3.5rem;
+  font-size: 1.7rem;
+}
+.review__author {
+  margin-left: 3rem;
+  font-style: normal;
+  display: grid;
+  grid-template-columns: 6.5rem 1fr;
+  column-gap: 2rem;
+}
+.review__photo {
+  grid-row: 1/span 2;
+  width: 6.5rem;
+  border-radius: 50%;
+}
+.review__name {
+  align-self: end;
+  margin: 0;
+}
 .footer {
   background-color: #fff;
   width: 100%;
@@ -335,6 +430,10 @@ body {
   display: flex;
   justify-content: flex-end;
   align-items: center;
+}
+.container {
+  max-width: 114rem;
+  margin: 0 auto;
 }
 .hero {
   height: 80rem;

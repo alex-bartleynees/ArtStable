@@ -4,11 +4,14 @@
 @use "components/nav";
 @use "components/button";
 @use "components/card";
+@use "components/slider";
 
 @use "layout/header";
 @use "layout/main";
 @use "layout/offerings";
 @use "layout/rates";
+@use "layout/reviews";
+
 @use "layout/footer";
 
 @use "pages/home";
