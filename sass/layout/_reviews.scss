@@ -12,19 +12,19 @@
 .review__author {
   margin-left: 3rem;
   font-style: normal;
-
-  display: grid;
-  grid-template-columns: 6.5rem 1fr;
-  column-gap: 2rem;
+  display: flex;
 }
 
 .review__photo {
-  grid-row: 1 / span 2;
-  width: 6.5rem;
+  width: 7.5rem;
+  height: 7.5rem;
   border-radius: 50%;
 }
 
-.review__name {
-  align-self: end;
-  margin: 0;
+.review__author-date {
+  display: flex;
+  flex-direction: column;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 2rem;
 }

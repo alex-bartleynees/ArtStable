@@ -225,14 +225,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  /* THIS creates the animation! */
   transition: transform 1s;
-}
-.slide > img {
-  /* Only for images that have different size than slide */
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
 }
 .slider__btn {
   position: absolute;
@@ -278,7 +271,6 @@ body {
   margin: 0;
 }
 .dots__dot--active {
-  /* background-color: #fff; */
   background-color: #888;
   opacity: 1;
 }
@@ -302,6 +294,7 @@ body {
   position: fixed;
   right: 0;
   left: 0;
+  z-index: 100;
 }
 .nav__list {
   display: flex;
@@ -407,18 +400,19 @@ body {
 .review__author {
   margin-left: 3rem;
   font-style: normal;
-  display: grid;
-  grid-template-columns: 6.5rem 1fr;
-  column-gap: 2rem;
+  display: flex;
 }
 .review__photo {
-  grid-row: 1/span 2;
-  width: 6.5rem;
+  width: 7.5rem;
+  height: 7.5rem;
   border-radius: 50%;
 }
-.review__name {
-  align-self: end;
-  margin: 0;
+.review__author-date {
+  display: flex;
+  flex-direction: column;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 2rem;
 }
 .footer {
   background-color: #fff;
@@ -449,5 +443,11 @@ body {
 }
 .welcome {
   margin-top: 6rem;
+}
+.anchor {
+  display: block;
+  height: 13rem;
+  margin-top: -13rem;
+  visibility: hidden;
 }
 /*# sourceMappingURL=index.35745f5c.css.map */
