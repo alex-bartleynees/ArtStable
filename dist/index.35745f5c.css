@@ -274,6 +274,50 @@ body {
   background-color: #888;
   opacity: 1;
 }
+.wrapper {
+  margin: 0 auto;
+  padding: 0 1rem;
+  max-width: 114rem;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+@media only screen and (max-width: 37.5em) {
+  .grid {
+    display: unset;
+  }
+}
+.responsive-image {
+  width: 275px;
+  height: 250px;
+}
+.cell {
+  display: block;
+  width: calc(25% - 2rem);
+  max-height: 25vh;
+  cursor: pointer;
+  text-align: center;
+  overflow: hidden;
+  margin: 1rem;
+  border-radius: 3px;
+}
+@media only screen and (max-width: 75em) {
+  .cell {
+    width: calc(33.33333% - 2rem);
+  }
+}
+@media only screen and (max-width: 56.25em) {
+  .cell {
+    width: calc(50% - 2rem);
+  }
+}
+@media only screen and (max-width: 37.5em) {
+  .cell {
+    width: 100%;
+  }
+}
 .header {
   background-color: white;
   width: 100%;
