@@ -275,9 +275,7 @@ body {
   opacity: 1;
 }
 .wrapper {
-  margin: 0 auto;
   padding: 0 1rem;
-  max-width: 114rem;
 }
 .grid {
   display: flex;
@@ -317,6 +315,21 @@ body {
   .cell {
     width: 100%;
   }
+}
+.form__input {
+  font-size: 1.5rem;
+  font-family: inherit;
+  color: inherit;
+  padding: 1.5rem 2rem;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border: none;
+  border-bottom: 3px solid transparent;
+  width: 150%;
+  display: block;
+}
+.form__textarea {
+  height: 10rem;
 }
 .header {
   background-color: white;
@@ -457,6 +470,37 @@ body {
   margin-top: auto;
   margin-bottom: auto;
   margin-left: 2rem;
+}
+.contact {
+  padding: 15rem 0;
+  background-image: linear-gradient(to right bottom, rgba(57, 192, 221, 0.9) 0%, rgba(0, 117, 131, 0.9) 50%);
+}
+.contact__wrapper {
+  background-image: linear-gradient(105deg, rgba(247, 247, 247, 0.9) 0%, rgba(238, 238, 238, 0.9) 49.9%, transparent 50%), url("Wellington-1.35569dcc.jpg");
+  background-size: 100%;
+  background-position: center;
+  border-radius: 3px;
+  box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.2);
+}
+@media only screen and (max-width: 56.25em) {
+  .contact {
+    padding: 10rem 0;
+  }
+}
+.contact__form {
+  width: 50%;
+  padding: 1rem;
+  margin-left: 2rem;
+}
+@media only screen and (max-width: 75em) {
+  .contact__form {
+    width: 65%;
+  }
+}
+@media only screen and (max-width: 56.25em) {
+  .contact__form {
+    width: 100%;
+  }
 }
 .footer {
   background-color: #fff;

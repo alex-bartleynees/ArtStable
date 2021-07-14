@@ -1,0 +1,20 @@
+@use "../abstracts/" as *;
+
+.form {
+  &__input {
+    font-size: 1.5rem;
+    font-family: inherit;
+    color: inherit;
+    padding: 1.5rem 2rem;
+    border-radius: 2px;
+    background-color: rgba($color-white, 0.5);
+    border: none;
+    border-bottom: 3px solid transparent;
+    width: 150%;
+    display: block;
+  }
+
+  &__textarea {
+    height: 10rem;
+  }
+}

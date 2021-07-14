@@ -1,0 +1,41 @@
+@use "../abstracts/" as *;
+
+.contact {
+  padding: 15rem 0;
+  background-image: linear-gradient(
+    to right bottom,
+    rgba($color-blue-light, 0.9) 0%,
+    rgba($color-blue-dark, 0.9) 50%
+  );
+
+  &__wrapper {
+    background-image: linear-gradient(
+        105deg,
+        rgba($color-grey-light-1, 0.9) 0%,
+        rgba($color-grey-light-2, 0.9) 49.9%,
+        transparent 50%
+      ),
+      url("/img/Wellington-1.jpg");
+    background-size: 100%;
+    background-position: center;
+    border-radius: $border-radius-small;
+    box-shadow: 0 1.5rem 4rem rgba($color-black, 0.2);
+  }
+
+  @include respond(tab-port) {
+    padding: 10rem 0;
+  }
+
+  &__form {
+    width: 50%;
+    padding: 1rem;
+    margin-left: 2rem;
+    @include respond(tab-land) {
+      width: 65%;
+    }
+
+    @include respond(tab-port) {
+      width: 100%;
+    }
+  }
+}
