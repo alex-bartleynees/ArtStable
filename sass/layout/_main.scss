@@ -46,6 +46,6 @@
   flex: 1;
 
   @include respond(phone) {
-    flex: 2 1 auto;
+    flex: 0 0 100%;
   }
 }

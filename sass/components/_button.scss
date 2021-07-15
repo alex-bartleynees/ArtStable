@@ -5,6 +5,7 @@
   border: none;
   background-color: $color-blue-light;
   transition: all 0.2s;
+  cursor: pointer;
 
   &__link:link,
   &__link:visited {
