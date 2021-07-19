@@ -396,6 +396,7 @@ body {
   left: 22vw;
   text-align: center;
   z-index: 200;
+  display: none;
   position: fixed;
 }
 @media only screen and (max-width: 56.25em) {

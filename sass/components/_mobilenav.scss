@@ -11,7 +11,7 @@
     left: 22vw;
     text-align: center;
     z-index: 200;
-
+    display: none;
     position: fixed;
     @include respond(tab-port) {
       display: block;

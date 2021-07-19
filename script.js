@@ -163,7 +163,7 @@ document.addEventListener("keydown", function (e) {
 
 // Lazy Loading
 
-const loadImg = function (entries, observer) {
+const loadImg = function (entries) {
   entries.forEach(function (entry) {
     if (entry.target.getAttribute("data-processed") || !entry.isIntersecting)
       return true;

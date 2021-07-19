@@ -1,6 +1,7 @@
 @font-face {
   font-family: "Frontage";
   src: url("./Frontage-Regular.otf") format("opentype");
+  font-display: swap;
 }
 
 @font-face {
@@ -8,6 +9,7 @@
   font-style: normal;
   font-weight: normal;
   src: url("./Flama Regular.woff") format("woff");
+  font-display: swap;
 }
 
 @font-face {
@@ -15,4 +17,5 @@
   font-style: normal;
   font-weight: normal;
   src: url("./Flama Condensed Basic Regular.woff") format("woff");
+  font-display: swap;
 }
