@@ -221,13 +221,13 @@ body {
   border-top-right-radius: 3px;
 }
 .card__picture--1 {
-  background-image: url("/img/artstabledata/IMG_9269.jpg");
+  background-image: url("https://ik.imagekit.io/7i4mfuqa7z9/IMG_9269_bv-L7Wyckm.jpg");
 }
 .card__picture--2 {
-  background-image: url("/img/artstabledata/IMG_9264 3.jpg");
+  background-image: url("https://ik.imagekit.io/7i4mfuqa7z9/IMG_9264_3_cOCL8BFvl.jpg");
 }
 .card__picture--3 {
-  background-image: url("/img/artstabledata/CocoOnStairs.jpg");
+  background-image: url("https://ik.imagekit.io/7i4mfuqa7z9/CocoOnStairs_Ijn4itO2O.jpg");
 }
 .card__heading {
   font-size: 2.8rem;
@@ -810,7 +810,7 @@ body {
   margin-top: 2rem;
 }
 .hero__image {
-  background-image: url("/img/artstabledata/Living Art Stable-4676 copy.jpg");
+  background-image: url("https://ik.imagekit.io/7i4mfuqa7z9/Living_Art_Stable-4676_copy_65zEMonRu.jpg");
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
