@@ -517,7 +517,7 @@ body {
   z-index: 8000;
 }
 .popup img {
-  width: 80vw;
+  max-width: 80vw;
   max-height: 80vh;
 }
 .popup__btn {
