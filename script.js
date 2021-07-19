@@ -104,3 +104,78 @@ const sliders = function () {
 };
 
 sliders();
+
+// Mobile Nav
+
+const navButton = document.querySelector(".navigation__button");
+const navButton1 = document.querySelector(".closeNav");
+const navIcon = document.querySelector(".navigation__icon");
+const navBackground = document.querySelector(".navigation__background");
+const navigationNav = document.querySelector(".navigation__nav");
+
+const openNav = function () {
+  navBackground.classList.toggle("hide");
+  navigationNav.classList.toggle("hide");
+  navIcon.classList.toggle("hide");
+  navButton1.classList.toggle("hide");
+};
+
+navButton.addEventListener("click", openNav);
+
+// Image pop ups
+
+const grid = document.querySelector(".grid");
+const popup = document.querySelector(".popup");
+const popupButton = document.querySelector(".popup__btn");
+const popUpBackground = document.querySelector(".popup__background");
+
+const openPopup = function (e) {
+  popup.classList.remove("hide");
+  popUpBackground.classList.remove("hide");
+  navButton.classList.add("hide");
+  popup.children[1].src = e.target.src;
+};
+
+const closePopup = function () {
+  popup.classList.add("hide");
+  navButton.classList.remove("hide");
+  popUpBackground.classList.add("hide");
+};
+
+grid.addEventListener("click", function (e) {
+  if (e.target.classList.contains("responsive-image")) {
+    openPopup(e);
+  }
+});
+
+popupButton.addEventListener("click", function () {
+  closePopup();
+});
+
+popUpBackground.addEventListener("click", closePopup);
+
+document.addEventListener("keydown", function (e) {
+  if (e.key === "Escape" && !popUpBackground.classList.contains("hide")) {
+    popUpBackground.classList.add("hide");
+    popup.classList.add("hide");
+  }
+});
+
+// Lazy Loading
+
+const loadImg = function (entries, observer) {
+  entries.forEach(function (entry) {
+    if (entry.target.getAttribute("data-processed") || !entry.isIntersecting)
+      return true;
+
+    entry.target.setAttribute("src", entry.target.getAttribute("data-src"));
+
+    entry.target.setAttribute("data-processed", true);
+  });
+};
+
+const observer = new IntersectionObserver(loadImg);
+
+document.querySelectorAll("[data-lazy-load]").forEach(function (img) {
+  observer.observe(img);
+});

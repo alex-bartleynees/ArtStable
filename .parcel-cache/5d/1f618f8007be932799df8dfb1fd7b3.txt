@@ -5249,7 +5249,7 @@
 92/home/alexander/Documents/Web Development/ArtStable/node_modules/node-addon-api/package.json499162500000000000 0
 88/home/alexander/Documents/Web Development/ArtStable/node_modules/node-addon-api/index.js499162500000000000 0
 79/home/alexander/Documents/Web Development/ArtStable/node_modules/node-addon-api1625012423608763042 1
-100/home/alexander/Documents/Web Development/ArtStable/dist/56A Ghuznee Street Web-16 copy.9bd6663a.jpg1626319666867064112 0
+100/home/alexander/Documents/Web Development/ArtStable/dist/56A Ghuznee Street Web-16 copy.9bd6663a.jpg1626488885955165228 0
 84/home/alexander/Documents/Web Development/ArtStable/node_modules/graceful-fs/LICENSE499162500000000000 0
 96/home/alexander/Documents/Web Development/ArtStable/node_modules/caniuse-lite/data/regions/BI.js499162500000000000 0
 83/home/alexander/Documents/Web Development/ArtStable/node_modules/cssom/lib/CSSOM.js499162500000000000 0
@@ -5801,7 +5801,7 @@
 94/home/alexander/Documents/Web Development/ArtStable/node_modules/@parcel/transformer-babel/lib1625012424628755571 1
 99/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/es/string/virtual/blink.js499162500000000000 0
 96/home/alexander/Documents/Web Development/ArtStable/node_modules/caniuse-lite/data/regions/LR.js499162500000000000 0
-85/home/alexander/Documents/Web Development/ArtStable/dist/sun-svgrepo-com.e546c441.svg1626319666851064550 0
+85/home/alexander/Documents/Web Development/ArtStable/dist/sun-svgrepo-com.e546c441.svg1626488885971164807 0
 100/home/alexander/Documents/Web Development/ArtStable/node_modules/caniuse-lite/data/regions/alt-oc.js499162500000000000 0
 117/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-svgo/node_modules/postcss/lib/lazy-result.js499162500000000000 0
 87/home/alexander/Documents/Web Development/ArtStable/node_modules/domhandler/lib/node.js499162500000000000 0
@@ -6265,7 +6265,7 @@
 125/home/alexander/Documents/Web Development/ArtStable/node_modules/css-modules-loader-core/node_modules/postcss/docs/guidelines1625012423320765152 1
 114/home/alexander/Documents/Web Development/ArtStable/node_modules/css-modules-loader-core/node_modules/postcss/docs1625012423432764332 1
 80/home/alexander/Documents/Web Development/ArtStable/node_modules/uri-js/dist/es51625012423708762309 1
-84/home/alexander/Documents/Web Development/ArtStable/dist/Flama Regular.89550d3a.woff1626319666851064550 0
+84/home/alexander/Documents/Web Development/ArtStable/dist/Flama Regular.89550d3a.woff1626488885975164702 0
 83/home/alexander/Documents/Web Development/ArtStable/node_modules/isstream/.jshintrc1396828238000000000 0
 114/home/alexander/Documents/Web Development/ArtStable/node_modules/stylehacks/node_modules/supports-color/browser.js499162500000000000 0
 119/home/alexander/Documents/Web Development/ArtStable/node_modules/css-modules-loader-core/node_modules/postcss/README.md1494156751000000000 0
@@ -6995,7 +6995,7 @@
 86/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/_baseValues.js499162500000000000 0
 89/home/alexander/Documents/Web Development/ArtStable/node_modules/object.pick/package.json1503107709000000000 0
 103/home/alexander/Documents/Web Development/ArtStable/node_modules/@swc/helpers/src/_iterable_to_array.js499162500000000000 0
-88/home/alexander/Documents/Web Development/ArtStable/dist/Flama Bold Italic.6b70939c.woff1626319666863064222 0
+88/home/alexander/Documents/Web Development/ArtStable/dist/Flama Bold Italic.6b70939c.woff1626488885983164493 0
 84/home/alexander/Documents/Web Development/ArtStable/node_modules/terser/CHANGELOG.md499162500000000000 0
 85/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/upperFirst.js499162500000000000 0
 93/home/alexander/Documents/Web Development/ArtStable/node_modules/@swc/helpers/src/_type_of.js499162500000000000 0
@@ -7207,7 +7207,7 @@
 107/home/alexander/Documents/Web Development/ArtStable/node_modules/dir-glob/node_modules/path-type/index.d.ts499162500000000000 0
 79/home/alexander/Documents/Web Development/ArtStable/node_modules/srcset/license499162500000000000 0
 86/home/alexander/Documents/Web Development/ArtStable/node_modules/stream-http/README.md499162500000000000 0
-83/home/alexander/Documents/Web Development/ArtStable/sass/components/_mobilenav.scss1626319666655069922 0
+83/home/alexander/Documents/Web Development/ArtStable/sass/components/_mobilenav.scss1626488795141449224 0
 80/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/clone.js499162500000000000 0
 105/home/alexander/Documents/Web Development/ArtStable/node_modules/dir-glob/node_modules/path-type/index.js499162500000000000 0
 92/home/alexander/Documents/Web Development/ArtStable/node_modules/type-fest/source/merge.d.ts499162500000000000 0
@@ -7630,7 +7630,7 @@
 135/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/postcss.d.ts499162500000000000 0
 97/home/alexander/Documents/Web Development/ArtStable/node_modules/@parcel/utils/lib/getExisting.js499162500000000000 0
 100/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-minify-font-values/dist/lib1625012423092766821 1
-86/home/alexander/Documents/Web Development/ArtStable/dist/wifi-svgrepo-com.7ee69e55.svg1626319666851064550 0
+86/home/alexander/Documents/Web Development/ArtStable/dist/wifi-svgrepo-com.7ee69e55.svg1626488885971164807 0
 128/home/alexander/Documents/Web Development/ArtStable/node_modules/posthtml-parser/coverage/lcov-report/posthtml-parser/index.html499162500000000000 0
 101/home/alexander/Documents/Web Development/ArtStable/node_modules/css-select/node_modules/domutils/lib1625012423032767261 1
 83/home/alexander/Documents/Web Development/ArtStable/node_modules/map-visit/index.js1491774134000000000 0
@@ -7971,7 +7971,7 @@
 103/home/alexander/Documents/Web Development/ArtStable/node_modules/@swc/helpers/src/_wrap_native_super.js499162500000000000 0
 80/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/isNil.js499162500000000000 0
 136/home/alexander/Documents/Web Development/ArtStable/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false1625012424028759965 1
-78/home/alexander/Documents/Web Development/ArtStable/sass/components/_card.scss1625194791371965267 0
+78/home/alexander/Documents/Web Development/ArtStable/sass/components/_card.scss1626393862157409679 0
 94/home/alexander/Documents/Web Development/ArtStable/node_modules/@parcel/optimizer-cssnano/lib1625012425152751733 1
 109/home/alexander/Documents/Web Development/ArtStable/node_modules/to-object-path/node_modules/kind-of/index.js1493120356000000000 0
 90/home/alexander/Documents/Web Development/ArtStable/node_modules/http-proxy/lib/http-proxy1625012423424764390 1
@@ -8104,7 +8104,7 @@
 93/home/alexander/Documents/Web Development/ArtStable/node_modules/css-tree/lib/syntax/index.js499162500000000000 0
 117/home/alexander/Documents/Web Development/ArtStable/node_modules/jsdom/lib/jsdom/living/nodes/HTMLSlotElement-impl.js499162500000000000 0
 89/home/alexander/Documents/Web Development/ArtStable/node_modules/cssnano-util-same-parent1625012422720769547 1
-78/home/alexander/Documents/Web Development/ArtStable/dist/IMG_9269.278a8960.jpg1626319666891063455 0
+78/home/alexander/Documents/Web Development/ArtStable/dist/IMG_9269.278a8960.jpg1626488885995164177 0
 123/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-normalize-charset/node_modules/postcss/lib/list.js499162500000000000 0
 93/home/alexander/Documents/Web Development/ArtStable/node_modules/css-tree/dist/csstree.min.js499162500000000000 0
 137/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-normalize-timing-functions/node_modules/postcss/lib/stringify.js499162500000000000 0
@@ -8132,7 +8132,7 @@
 126/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-discard-empty/node_modules/postcss/lib/stringifier.js499162500000000000 0
 118/home/alexander/Documents/Web Development/ArtStable/node_modules/dom-serializer/node_modules/domhandler/lib/index.d.ts499162500000000000 0
 94/home/alexander/Documents/Web Development/ArtStable/node_modules/nullthrows/nullthrows.js.flow499162500000000000 0
-79/home/alexander/Documents/Web Development/ArtStable/sass/abstracts/_mixins.scss1626316669838643081 0
+79/home/alexander/Documents/Web Development/ArtStable/sass/abstracts/_mixins.scss1626393499760537631 0
 95/home/alexander/Documents/Web Development/ArtStable/node_modules/available-typed-arrays/LICENSE499162500000000000 0
 108/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/stable/string/virtual/trim-start.js499162500000000000 0
 96/home/alexander/Documents/Web Development/ArtStable/node_modules/caniuse-lite/data/regions/TV.js499162500000000000 0
@@ -8202,7 +8202,7 @@
 102/home/alexander/Documents/Web Development/ArtStable/node_modules/csso/lib/restructure/prepare/index.js499162500000000000 0
 98/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/features/composite-key.js499162500000000000 0
 84/home/alexander/Documents/Web Development/ArtStable/node_modules/form-data/yarn.lock1518539554000000000 0
-82/home/alexander/Documents/Web Development/ArtStable/dist/CocoOnStairs.7d366ae0.jpg1626319666867064112 0
+82/home/alexander/Documents/Web Development/ArtStable/dist/CocoOnStairs.7d366ae0.jpg1626488885995164177 0
 81/home/alexander/Documents/Web Development/ArtStable/node_modules/minimist/example1625012423124766587 1
 97/home/alexander/Documents/Web Development/ArtStable/node_modules/asn1.js/lib/asn1/encoders/der.js499162500000000000 0
 101/home/alexander/Documents/Web Development/ArtStable/node_modules/cssstyle/lib/properties/fontStyle.js499162500000000000 0
@@ -8441,7 +8441,7 @@
 98/home/alexander/Documents/Web Development/ArtStable/node_modules/@parcel/core/src/public/Target.js499162500000000000 0
 84/home/alexander/Documents/Web Development/ArtStable/node_modules/ws/lib/websocket.js499162500000000000 0
 77/home/alexander/Documents/Web Development/ArtStable/node_modules/mdn-data/api1625012423028767291 1
-77/home/alexander/Documents/Web Development/ArtStable/dist/melissa.914fec24.jpg1626319666851064550 0
+77/home/alexander/Documents/Web Development/ArtStable/dist/melissa.914fec24.jpg1626488885947165438 0
 82/home/alexander/Documents/Web Development/ArtStable/node_modules/@parcel/core/test1625012425984745641 1
 99/home/alexander/Documents/Web Development/ArtStable/node_modules/json-source-map/spec/.eslintrc.yml499162500000000000 0
 84/home/alexander/Documents/Web Development/ArtStable/node_modules/fast-deep-equal/es61625012423048767144 1
@@ -9186,7 +9186,7 @@
 79/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/trim.js499162500000000000 0
 91/home/alexander/Documents/Web Development/ArtStable/node_modules/stream-http/lib/request.js499162500000000000 0
 92/home/alexander/Documents/Web Development/ArtStable/node_modules/hmac-drbg/test/drbg-test.js1491777176000000000 0
-97/home/alexander/Documents/Web Development/ArtStable/dist/Living Art Stable-4676 copy.d79cfe63.jpg1626319666887063564 0
+97/home/alexander/Documents/Web Development/ArtStable/dist/Living Art Stable-4676 copy.d79cfe63.jpg1626488886027163337 0
 89/home/alexander/Documents/Web Development/ArtStable/node_modules/node-forge/lib/sha256.js499162500000000000 0
 102/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/features/instance/includes.js499162500000000000 0
 82/home/alexander/Documents/Web Development/ArtStable/node_modules/pako/dist/pako.js499162500000000000 0
@@ -9204,7 +9204,7 @@
 110/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/features/typed-array/float32-array.js499162500000000000 0
 77/home/alexander/Documents/Web Development/ArtStable/node_modules/finalhandler1624925502011284102 1
 106/home/alexander/Documents/Web Development/ArtStable/node_modules/css-tree/lib/syntax/pseudo/nth-of-type.js499162500000000000 0
-56/home/alexander/Documents/Web Development/ArtStable/dist1626319666931062358 1
+56/home/alexander/Documents/Web Development/ArtStable/dist1626488886051162707 1
 85/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/extendWith.js499162500000000000 0
 95/home/alexander/Documents/Web Development/ArtStable/node_modules/detect-libc/lib/detect-libc.js1511345367000000000 0
 117/home/alexander/Documents/Web Development/ArtStable/node_modules/css-tree/lib/syntax/pseudo/common/nthWithOfClause.js499162500000000000 0
@@ -9249,7 +9249,7 @@
 110/home/alexander/Documents/Web Development/ArtStable/node_modules/set-value/node_modules/extend-shallow/LICENSE1425326601000000000 0
 95/home/alexander/Documents/Web Development/ArtStable/node_modules/performance-now/.tm_properties1483443554000000000 0
 94/home/alexander/Documents/Web Development/ArtStable/node_modules/csso/lib/clean/Declaration.js499162500000000000 0
-90/home/alexander/Documents/Web Development/ArtStable/dist/The-Art-Stable-white.79054dc6.png1626319666851064550 0
+90/home/alexander/Documents/Web Development/ArtStable/dist/The-Art-Stable-white.79054dc6.png1626488885947165438 0
 150/home/alexander/Documents/Web Development/ArtStable/node_modules/@parcel/node-libs-browser/node_modules/readable-stream/lib/internal/streams/stream.js499162500000000000 0
 92/home/alexander/Documents/Web Development/ArtStable/node_modules/get-intrinsic/.eslintignore499162500000000000 0
 100/home/alexander/Documents/Web Development/ArtStable/node_modules/highlight.js/styles/kimbie.dark.css499162500000000000 0
@@ -9278,7 +9278,7 @@
 81/home/alexander/Documents/Web Development/ArtStable/node_modules/anymatch/LICENSE499162500000000000 0
 100/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/features/typed-array/set.js499162500000000000 0
 97/home/alexander/Documents/Web Development/ArtStable/node_modules/@swc/helpers/lib/_await_value.js499162500000000000 0
-76/home/alexander/Documents/Web Development/ArtStable/dist/nikky.d819bc3b.webp1626319666851064550 0
+76/home/alexander/Documents/Web Development/ArtStable/dist/nikky.d819bc3b.webp1626488885971164807 0
 123/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-reduce-transforms/node_modules/postcss/lib/list.js499162500000000000 0
 95/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/features/array/flat.js499162500000000000 0
 101/home/alexander/Documents/Web Development/ArtStable/node_modules/highlight.js/styles/kimbie.light.css499162500000000000 0
@@ -9536,7 +9536,7 @@
 92/home/alexander/Documents/Web Development/ArtStable/node_modules/supports-color/package.json1534739817000000000 0
 81/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/assign.js499162500000000000 0
 115/home/alexander/Documents/Web Development/ArtStable/node_modules/caniuse-lite/data/features/css-at-counter-style.js499162500000000000 0
-90/home/alexander/Documents/Web Development/ArtStable/dist/Art Stable-4770 copy.7effd1f5.jpg1626319666899063235 0
+90/home/alexander/Documents/Web Development/ArtStable/dist/Art Stable-4770 copy.7effd1f5.jpg1626488886011163756 0
 97/home/alexander/Documents/Web Development/ArtStable/node_modules/@nodelib/fs.scandir/package.json499162500000000000 0
 113/home/alexander/Documents/Web Development/ArtStable/node_modules/http-proxy/lib/http-proxy/passes/web-incoming.js499162500000000000 0
 92/home/alexander/Documents/Web Development/ArtStable/node_modules/astring/dist/astring.js.map499162500000000000 0
@@ -9562,7 +9562,7 @@
 99/home/alexander/Documents/Web Development/ArtStable/node_modules/highlight.js/scss/an-old-hope.scss499162500000000000 0
 114/home/alexander/Documents/Web Development/ArtStable/node_modules/caniuse-lite/data/features/once-event-listener.js499162500000000000 0
 77/home/alexander/Documents/Web Development/ArtStable/node_modules/.bin/astring1625012429460720196 0
-74/home/alexander/Documents/Web Development/ArtStable/dist/index.b4f5078c.js1626319666863064222 0
+74/home/alexander/Documents/Web Development/ArtStable/dist/index.b4f5078c.js1626488885991164282 0
 83/home/alexander/Documents/Web Development/ArtStable/node_modules/nanomatch/index.js499162500000000000 0
 96/home/alexander/Documents/Web Development/ArtStable/node_modules/css-tree/lib/syntax/node/CDC.js499162500000000000 0
 98/home/alexander/Documents/Web Development/ArtStable/node_modules/symbol-tree/lib/SymbolTreeNode.js499162500000000000 0
@@ -9572,7 +9572,7 @@
 108/home/alexander/Documents/Web Development/ArtStable/node_modules/@parcel/core/test/fixtures/config-malformed1625012425936745992 1
 95/home/alexander/Documents/Web Development/ArtStable/node_modules/console-browserify/.travis.yml499162500000000000 0
 95/home/alexander/Documents/Web Development/ArtStable/node_modules/@parcel/codeframe/package.json499162500000000000 0
-86/home/alexander/Documents/Web Development/ArtStable/dist/park-svgrepo-com.d5d2f846.svg1626319666851064550 0
+86/home/alexander/Documents/Web Development/ArtStable/dist/park-svgrepo-com.d5d2f846.svg1626488885947165438 0
 73/home/alexander/Documents/Web Development/ArtStable/node_modules/boolbase1625012422680769841 1
 97/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-value-parser/lib/walk.js499162500000000000 0
 78/home/alexander/Documents/Web Development/ArtStable/node_modules/generic-names1625012422800768961 1
@@ -9622,7 +9622,7 @@
 87/home/alexander/Documents/Web Development/ArtStable/node_modules/cssesc/LICENSE-MIT.txt499162500000000000 0
 86/home/alexander/Documents/Web Development/ArtStable/node_modules/fast-glob/out/readers1625012423700762368 1
 98/home/alexander/Documents/Web Development/ArtStable/node_modules/es-abstract/2019/DayWithinYear.js499162500000000000 0
-87/home/alexander/Documents/Web Development/ArtStable/dist/stove-svgrepo-com.461163e6.svg1626319666863064222 0
+87/home/alexander/Documents/Web Development/ArtStable/dist/stove-svgrepo-com.461163e6.svg1626488885983164493 0
 130/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-normalize-positions/node_modules/postcss/lib/processor.js499162500000000000 0
 123/home/alexander/Documents/Web Development/ArtStable/node_modules/terser/node_modules/source-map/lib/source-map-generator.js1526491281000000000 0
 96/home/alexander/Documents/Web Development/ArtStable/node_modules/svgo/plugins/convertPathData.js499162500000000000 0
@@ -9638,7 +9638,7 @@
 87/home/alexander/Documents/Web Development/ArtStable/node_modules/object-inspect/LICENSE499162500000000000 0
 105/home/alexander/Documents/Web Development/ArtStable/node_modules/@swc/helpers/lib/_to_consumable_array.js499162500000000000 0
 94/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/_isStrictComparable.js499162500000000000 0
-76/home/alexander/Documents/Web Development/ArtStable/sass/layout/_footer.scss1626319288069932336 0
+76/home/alexander/Documents/Web Development/ArtStable/sass/layout/_footer.scss1626393237485931642 0
 93/home/alexander/Documents/Web Development/ArtStable/node_modules/es-abstract/2020/BinaryOr.js499162500000000000 0
 76/home/alexander/Documents/Web Development/ArtStable/node_modules/pn/http2.js1515010282000000000 0
 101/home/alexander/Documents/Web Development/ArtStable/node_modules/highlight.js/lib/languages/armasm.js499162500000000000 0
@@ -9670,7 +9670,7 @@
 96/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/features/array/index.js499162500000000000 0
 82/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/fp/util.js499162500000000000 0
 134/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-merge-longhand/node_modules/postcss-value-parser/lib/parse.js499162500000000000 0
-79/home/alexander/Documents/Web Development/ArtStable/dist/index.35745f5c.css.map1626319666871064002 0
+79/home/alexander/Documents/Web Development/ArtStable/dist/index.35745f5c.css.map1626488886007163862 0
 73/home/alexander/Documents/Web Development/ArtStable/node_modules/has-ansi1625012422712769606 1
 127/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-minify-params/node_modules/source-map/lib/array-set.js1496683247000000000 0
 117/home/alexander/Documents/Web Development/ArtStable/node_modules/@parcel/utils/node_modules/chalk/source/templates.js499162500000000000 0
@@ -9679,7 +9679,7 @@
 99/home/alexander/Documents/Web Development/ArtStable/node_modules/caniuse-lite/data/features/calc.js499162500000000000 0
 96/home/alexander/Documents/Web Development/ArtStable/node_modules/caniuse-lite/data/regions/LV.js499162500000000000 0
 123/home/alexander/Documents/Web Development/ArtStable/node_modules/css-modules-loader-core/node_modules/postcss/lib/result.js1494156753000000000 0
-73/home/alexander/Documents/Web Development/ArtStable/sass/pages/_home.scss1626315658665479515 0
+73/home/alexander/Documents/Web Development/ArtStable/sass/pages/_home.scss1626488803425283323 0
 120/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-modules/node_modules/postcss/lib/stringifier.js499162500000000000 0
 120/home/alexander/Documents/Web Development/ArtStable/node_modules/csso/node_modules/css-tree/lib/syntax/node/Dimension.js499162500000000000 0
 92/home/alexander/Documents/Web Development/ArtStable/node_modules/@babel/helper-function-name1625012422780769107 1
@@ -9698,7 +9698,7 @@
 105/home/alexander/Documents/Web Development/ArtStable/node_modules/css-tree/lib/syntax/node/SelectorList.js499162500000000000 0
 70/home/alexander/Documents/Web Development/ArtStable/node_modules/saxes1625012422980767642 1
 107/home/alexander/Documents/Web Development/ArtStable/node_modules/caniuse-lite/data/features/css-overflow.js499162500000000000 0
-79/home/alexander/Documents/Web Development/ArtStable/dist/index.13775973.css.map1626319666867064112 0
+79/home/alexander/Documents/Web Development/ArtStable/dist/index.13775973.css.map1626488886007163862 0
 120/home/alexander/Documents/Web Development/ArtStable/node_modules/caniuse-lite/data/features/document-scrollingelement.js499162500000000000 0
 150/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-normalize-timing-functions/node_modules/postcss-value-parser/lib/stringify.js499162500000000000 0
 90/home/alexander/Documents/Web Development/ArtStable/node_modules/argparse/lib/action/store1625012423316765181 1
@@ -9711,7 +9711,7 @@
 138/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-normalize-whitespace/node_modules/source-map/lib/binary-search.js1492467891000000000 0
 79/home/alexander/Documents/Web Development/ArtStable/node_modules/string_decoder1624925501999283937 1
 96/home/alexander/Documents/Web Development/ArtStable/node_modules/@babel/types/lib/clone/clone.js456789000000000000 0
-80/home/alexander/Documents/Web Development/ArtStable/dist/IMG_1723 2.69d95014.jpg1626319666887063564 0
+80/home/alexander/Documents/Web Development/ArtStable/dist/IMG_1723 2.69d95014.jpg1626488886023163442 0
 96/home/alexander/Documents/Web Development/ArtStable/node_modules/caniuse-lite/data/regions/GY.js499162500000000000 0
 110/home/alexander/Documents/Web Development/ArtStable/node_modules/extglob/node_modules/extend-shallow/README.md1435564577000000000 0
 135/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-normalize-whitespace/node_modules/postcss/lib/map-generator.js499162500000000000 0
@@ -9739,7 +9739,7 @@
 127/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-minify-selectors/node_modules/postcss/lib/container.js499162500000000000 0
 67/home/alexander/Documents/Web Development/ArtStable/node_modules/bl1625012423160766323 1
 95/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/stable/instance/map.js499162500000000000 0
-67/home/alexander/Documents/Web Development/ArtStable/dist/index.html1626319666863064222 0
+67/home/alexander/Documents/Web Development/ArtStable/dist/index.html1626488885991164282 0
 96/home/alexander/Documents/Web Development/ArtStable/node_modules/highlight.js/styles/dracula.css499162500000000000 0
 106/home/alexander/Documents/Web Development/ArtStable/node_modules/@parcel/utils/node_modules/supports-color1625012422784769078 1
 103/home/alexander/Documents/Web Development/ArtStable/node_modules/es-abstract/2018/TestIntegrityLevel.js499162500000000000 0
@@ -9860,7 +9860,7 @@
 117/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-modules/node_modules/postcss/lib/tokenize.js499162500000000000 0
 99/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/internals/collection-of.js499162500000000000 0
 82/home/alexander/Documents/Web Development/ArtStable/node_modules/miller-rabin/1.js1493413135000000000 0
-62/home/alexander/Documents/Web Development/ArtStable/index.html1626319432207616137 0
+62/home/alexander/Documents/Web Development/ArtStable/index.html1626488575237684153 0
 107/home/alexander/Documents/Web Development/ArtStable/node_modules/es-abstract/2016/OrdinaryGetPrototypeOf.js499162500000000000 0
 76/home/alexander/Documents/Web Development/ArtStable/fonts/Flama Regular.woff1484055146000000000 0
 100/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-modules-extract-imports/lib1625012423096766792 1
@@ -9911,7 +9911,7 @@
 90/home/alexander/Documents/Web Development/ArtStable/node_modules/highlight.js/scss/vs.scss499162500000000000 0
 114/home/alexander/Documents/Web Development/ArtStable/node_modules/jsdom/lib/jsdom/living/generated/CharacterData.js499162500000000000 0
 100/home/alexander/Documents/Web Development/ArtStable/node_modules/whatwg-url/lib/url-state-machine.js499162500000000000 0
-64/home/alexander/Documents/Web Development/ArtStable/package.json1625012532647970967 0
+64/home/alexander/Documents/Web Development/ArtStable/package.json1626488885407179617 0
 122/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-normalize-url/node_modules/postcss/docs/syntax.md499162500000000000 0
 76/home/alexander/Documents/Web Development/ArtStable/node_modules/sax/LICENSE1471034108000000000 0
 79/home/alexander/Documents/Web Development/ArtStable/node_modules/des.js/lib/des1625012423212765943 1
@@ -9938,14 +9938,14 @@
 117/home/alexander/Documents/Web Development/ArtStable/node_modules/jsdom/lib/jsdom/living/helpers/mutation-observers.js499162500000000000 0
 125/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-normalize-positions/node_modules/postcss/lib/list.js499162500000000000 0
 82/home/alexander/Documents/Web Development/ArtStable/node_modules/csso/package.json499162500000000000 0
-74/home/alexander/Documents/Web Development/ArtStable/dist/mel.6a43e6ad.webp1626319666863064222 0
+74/home/alexander/Documents/Web Development/ArtStable/dist/mel.6a43e6ad.webp1626488885983164493 0
 69/home/alexander/Documents/Web Development/ArtStable/package-lock.json1625012532647970967 0
 118/home/alexander/Documents/Web Development/ArtStable/node_modules/caniuse-lite/data/features/font-variant-alternates.js499162500000000000 0
 92/home/alexander/Documents/Web Development/ArtStable/node_modules/command-exists/appveyor.yml499162500000000000 0
 97/home/alexander/Documents/Web Development/ArtStable/node_modules/highlight.js/lib/languages/xl.js499162500000000000 0
 88/home/alexander/Documents/Web Development/ArtStable/node_modules/http-proxy/CHANGELOG.md499162500000000000 0
 101/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-discard-duplicates/README.md499162500000000000 0
-51/home/alexander/Documents/Web Development/ArtStable1626318830772672224 1
+51/home/alexander/Documents/Web Development/ArtStable1626488771449921751 1
 133/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-normalize-positions/node_modules/postcss/docs/source-maps.md499162500000000000 0
 89/home/alexander/Documents/Web Development/ArtStable/node_modules/.bin/node-gyp-build-test1625012429460720196 0
 102/home/alexander/Documents/Web Development/ArtStable/node_modules/css-tree/lib/syntax/pseudo/matches.js499162500000000000 0
@@ -10033,7 +10033,7 @@
 127/home/alexander/Documents/Web Development/ArtStable/node_modules/css-declaration-sorter/node_modules/postcss/lib/lazy-result.js499162500000000000 0
 115/home/alexander/Documents/Web Development/ArtStable/node_modules/micromatch/node_modules/is-extendable/package.json1436050204000000000 0
 105/home/alexander/Documents/Web Development/ArtStable/node_modules/fast-json-stable-stringify/.eslintrc.yml499162500000000000 0
-78/home/alexander/Documents/Web Development/ArtStable/dist/index.b4f5078c.js.map1626319666871064002 0
+78/home/alexander/Documents/Web Development/ArtStable/dist/index.b4f5078c.js.map1626488886007163862 0
 98/home/alexander/Documents/Web Development/ArtStable/node_modules/is-fullwidth-code-point/readme.md499162500000000000 0
 98/home/alexander/Documents/Web Development/ArtStable/node_modules/cssstyle/lib/properties/margin.js499162500000000000 0
 96/home/alexander/Documents/Web Development/ArtStable/node_modules/caniuse-lite/data/regions/LI.js499162500000000000 0
@@ -10171,7 +10171,7 @@
 96/home/alexander/Documents/Web Development/ArtStable/node_modules/loader-utils/lib/parseString.js499162500000000000 0
 112/home/alexander/Documents/Web Development/ArtStable/node_modules/http-proxy/lib/http-proxy/passes/ws-incoming.js499162500000000000 0
 99/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/stable/instance/entries.js499162500000000000 0
-77/home/alexander/Documents/Web Development/ArtStable/sass/layout/_contact.scss1626312230528932810 0
+77/home/alexander/Documents/Web Development/ArtStable/sass/layout/_contact.scss1626394007725302908 0
 86/home/alexander/Documents/Web Development/ArtStable/node_modules/posthtml/lib/index.js499162500000000000 0
 114/home/alexander/Documents/Web Development/ArtStable/node_modules/jsdom/lib/jsdom/living/generated/ValidityState.js499162500000000000 0
 93/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/es/regexp/replace.js499162500000000000 0
@@ -10267,7 +10267,7 @@
 101/home/alexander/Documents/Web Development/ArtStable/node_modules/@babel/types/lib/definitions/flow.js456789000000000000 0
 107/home/alexander/Documents/Web Development/ArtStable/node_modules/@parcel/transformer-babel/src/constants.js499162500000000000 0
 94/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/fp/templateSettings.js499162500000000000 0
-95/home/alexander/Documents/Web Development/ArtStable/dist/AB_2012-10-31_5461 copy 2.5d6e691c.jpg1626319666915062797 0
+95/home/alexander/Documents/Web Development/ArtStable/dist/AB_2012-10-31_5461 copy 2.5d6e691c.jpg1626488886031163231 0
 90/home/alexander/Documents/Web Development/ArtStable/node_modules/http-proxy/.gitattributes499162500000000000 0
 98/home/alexander/Documents/Web Development/ArtStable/node_modules/caniuse-lite/data/features/ogv.js499162500000000000 0
 83/home/alexander/Documents/Web Development/ArtStable/node_modules/lowlight/readme.md499162500000000000 0
@@ -10341,7 +10341,7 @@
 85/home/alexander/Documents/Web Development/ArtStable/node_modules/object-copy/index.js1465495623000000000 0
 122/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-discard-empty/node_modules/postcss/docs/syntax.md499162500000000000 0
 110/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-merge-longhand/dist/lib/colorMerge.js499162500000000000 0
-83/home/alexander/Documents/Web Development/ArtStable/dist/Frontage-Bold.e4b9d5a0.otf1626319666851064550 0
+83/home/alexander/Documents/Web Development/ArtStable/dist/Frontage-Bold.e4b9d5a0.otf1626488885951165332 0
 98/home/alexander/Documents/Web Development/ArtStable/node_modules/css-tree/lib/syntax/node/Block.js499162500000000000 0
 114/home/alexander/Documents/Web Development/ArtStable/node_modules/caniuse-lite/data/features/background-img-opts.js499162500000000000 0
 102/home/alexander/Documents/Web Development/ArtStable/node_modules/@swc/helpers/src/_class_call_check.js499162500000000000 0
@@ -10374,7 +10374,7 @@
 81/home/alexander/Documents/Web Development/ArtStable/node_modules/js-yaml/index.js499162500000000000 0
 88/home/alexander/Documents/Web Development/ArtStable/node_modules/fragment-cache/index.js1476743736000000000 0
 120/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-modules-extract-imports/node_modules/source-map1625012423396764595 1
-92/home/alexander/Documents/Web Development/ArtStable/dist/television-svgrepo-com.b670d111.svg1626319666863064222 0
+92/home/alexander/Documents/Web Development/ArtStable/dist/television-svgrepo-com.b670d111.svg1626488885983164493 0
 86/home/alexander/Documents/Web Development/ArtStable/node_modules/anymatch/package.json499162500000000000 0
 143/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-normalize-display-values/node_modules/postcss-value-parser/lib/unit.js499162500000000000 0
 111/home/alexander/Documents/Web Development/ArtStable/node_modules/css-tree/lib/syntax/pseudo/nth-last-of-type.js499162500000000000 0
@@ -10383,7 +10383,7 @@
 86/home/alexander/Documents/Web Development/ArtStable/node_modules/minimist/package.json499162500000000000 0
 111/home/alexander/Documents/Web Development/ArtStable/node_modules/csso/node_modules/source-map/lib/base64-vlq.js1492467891000000000 0
 120/home/alexander/Documents/Web Development/ArtStable/node_modules/static-extend/node_modules/is-data-descriptor/README.md1451292580000000000 0
-61/home/alexander/Documents/Web Development/ArtStable/script.js1625455221389555202 0
+61/home/alexander/Documents/Web Development/ArtStable/script.js1626488789217567649 0
 80/home/alexander/Documents/Web Development/ArtStable/node_modules/bl/package.json499162500000000000 0
 90/home/alexander/Documents/Web Development/ArtStable/node_modules/pako/lib/zlib/gzheader.js499162500000000000 0
 93/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-merge-rules/dist/lib1625012422836768697 1
@@ -10438,11 +10438,11 @@
 122/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-reduce-initial/node_modules/postcss/lib/result.js499162500000000000 0
 81/home/alexander/Documents/Web Development/ArtStable/node_modules/@nodelib/fs.walk1625012423292765356 1
 85/home/alexander/Documents/Web Development/ArtStable/node_modules/@types/node/url.d.ts1624762875000000000 0
-75/home/alexander/Documents/Web Development/ArtStable/dist/index.13775973.css1626319666863064222 0
+75/home/alexander/Documents/Web Development/ArtStable/dist/index.13775973.css1626488885991164282 0
 103/home/alexander/Documents/Web Development/ArtStable/node_modules/highlight.js/scss/qtcreator_light.scss499162500000000000 0
 110/home/alexander/Documents/Web Development/ArtStable/node_modules/jsdom/lib/jsdom/living/generated/DOMParser.js499162500000000000 0
 120/home/alexander/Documents/Web Development/ArtStable/node_modules/@parcel/markdown-ansi/node_modules/chalk/source/util.js499162500000000000 0
-75/home/alexander/Documents/Web Development/ArtStable/dist/index.35745f5c.css1626319666863064222 0
+75/home/alexander/Documents/Web Development/ArtStable/dist/index.35745f5c.css1626488885991164282 0
 98/home/alexander/Documents/Web Development/ArtStable/node_modules/highlight.js/lib/languages/bnf.js499162500000000000 0
 119/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-colormin/node_modules/source-map/source-map.js1506367807000000000 0
 72/home/alexander/Documents/Web Development/ArtStable/node_modules/qs/test1625012423436764301 1
@@ -10524,7 +10524,7 @@
 106/home/alexander/Documents/Web Development/ArtStable/node_modules/es-abstract/2015/DefinePropertyOrThrow.js499162500000000000 0
 83/home/alexander/Documents/Web Development/ArtStable/node_modules/mimic-fn/readme.md499162500000000000 0
 98/home/alexander/Documents/Web Development/ArtStable/node_modules/type-fest/source/stringified.d.ts499162500000000000 0
-97/home/alexander/Documents/Web Development/ArtStable/dist/shower-bathroom-svgrepo-com.dcbab1c4.svg1626319666851064550 0
+97/home/alexander/Documents/Web Development/ArtStable/dist/shower-bathroom-svgrepo-com.dcbab1c4.svg1626488885971164807 0
 117/home/alexander/Documents/Web Development/ArtStable/node_modules/jsdom/lib/jsdom/living/generated/DocumentFragment.js499162500000000000 0
 78/home/alexander/Documents/Web Development/ArtStable/node_modules/saxes/LICENSE499162500000000000 0
 86/home/alexander/Documents/Web Development/ArtStable/node_modules/ajv/.tonic_example.js499162500000000000 0
@@ -10642,7 +10642,7 @@
 136/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-unique-selectors/node_modules/postcss/docs/guidelines/runner.md499162500000000000 0
 87/home/alexander/Documents/Web Development/ArtStable/node_modules/css-tree/data/index.js499162500000000000 0
 136/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-normalize-string/node_modules/postcss/docs/guidelines/runner.md499162500000000000 0
-120/home/alexander/Documents/Web Development/ArtStable/dist/cutlery-cross-couple-of-fork-and-spoon-svgrepo-com.4b6d6d82.svg1626319666863064222 0
+120/home/alexander/Documents/Web Development/ArtStable/dist/cutlery-cross-couple-of-fork-and-spoon-svgrepo-com.4b6d6d82.svg1626488885983164493 0
 99/home/alexander/Documents/Web Development/ArtStable/node_modules/string.prototype.trimstart/shim.js499162500000000000 0
 83/home/alexander/Documents/Web Development/ArtStable/node_modules/saxes/lib/saxes.js499162500000000000 0
 96/home/alexander/Documents/Web Development/ArtStable/node_modules/string.prototype.trimstart/test1624925627292638964 1
@@ -10815,7 +10815,7 @@
 85/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/_getRawTag.js499162500000000000 0
 99/home/alexander/Documents/Web Development/ArtStable/node_modules/cosmiconfig/dist/createExplorer.js499162500000000000 0
 116/home/alexander/Documents/Web Development/ArtStable/node_modules/jsdom/lib/jsdom/living/generated/CustomEventInit.js499162500000000000 0
-88/home/alexander/Documents/Web Development/ArtStable/dist/window-svgrepo-com.295ad999.svg1626319666851064550 0
+88/home/alexander/Documents/Web Development/ArtStable/dist/window-svgrepo-com.295ad999.svg1626488885971164807 0
 88/home/alexander/Documents/Web Development/ArtStable/node_modules/@parcel/package-manager1625012425960745817 1
 89/home/alexander/Documents/Web Development/ArtStable/node_modules/on-finished/package.json1432689493000000000 0
 109/home/alexander/Documents/Web Development/ArtStable/node_modules/minimalistic-crypto-utils/test/utils-test.js1487798429000000000 0
@@ -10988,7 +10988,7 @@
 100/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-merge-longhand/node_modules1625012421352779570 1
 119/home/alexander/Documents/Web Development/ArtStable/node_modules/uncss/node_modules/source-map/dist/source-map.debug.js1506695999000000000 0
 122/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-minify-selectors/node_modules/postcss/lib/node.js499162500000000000 0
-74/home/alexander/Documents/Web Development/ArtStable/sass/layout/_main.scss1626315761921826281 0
+74/home/alexander/Documents/Web Development/ArtStable/sass/layout/_main.scss1626488746442417178 0
 98/home/alexander/Documents/Web Development/ArtStable/node_modules/css-tree/lib/syntax/node/Ratio.js499162500000000000 0
 88/home/alexander/Documents/Web Development/ArtStable/node_modules/string-width/index.d.ts499162500000000000 0
 75/home/alexander/Documents/Web Development/ArtStable/node_modules/ws/LICENSE499162500000000000 0
@@ -11464,7 +11464,7 @@
 93/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/es/string/italics.js499162500000000000 0
 92/home/alexander/Documents/Web Development/ArtStable/node_modules/es-abstract/2019/WeekDay.js499162500000000000 0
 115/home/alexander/Documents/Web Development/ArtStable/node_modules/jsdom/lib/jsdom/living/nodes/HTMLBRElement-impl.js499162500000000000 0
-85/home/alexander/Documents/Web Development/ArtStable/dist/bed-svgrepo-com.9fa03849.svg1626319666851064550 0
+85/home/alexander/Documents/Web Development/ArtStable/dist/bed-svgrepo-com.9fa03849.svg1626488885947165438 0
 91/home/alexander/Documents/Web Development/ArtStable/node_modules/csso/lib/replace/Atrule.js499162500000000000 0
 90/home/alexander/Documents/Web Development/ArtStable/node_modules/csso/lib/replace/property1625012423688762456 1
 79/home/alexander/Documents/Web Development/ArtStable/node_modules/to-regex-range1624925481914995912 1
@@ -11883,7 +11883,7 @@
 88/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/fp/invokeArgs.js499162500000000000 0
 82/home/alexander/Documents/Web Development/ArtStable/node_modules/is-symbol/.github1624925627292638964 1
 129/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-normalize-repeat-style/node_modules/postcss-value-parser1625012422680769841 1
-78/home/alexander/Documents/Web Development/ArtStable/dist/IMG_1728.a208ee60.jpg1626319666883063674 0
+78/home/alexander/Documents/Web Development/ArtStable/dist/IMG_1728.a208ee60.jpg1626488886019163547 0
 102/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/modules/esnext.map.emplace.js499162500000000000 0
 136/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-minify-selectors/node_modules/postcss/lib/terminal-highlight.js499162500000000000 0
 100/home/alexander/Documents/Web Development/ArtStable/node_modules/@parcel/runtime-js/lib/loaders/node1625012424796754341 1
@@ -12068,7 +12068,7 @@
 112/home/alexander/Documents/Web Development/ArtStable/node_modules/jsdom/lib/jsdom/living/generated/HTMLElement.js499162500000000000 0
 103/home/alexander/Documents/Web Development/ArtStable/node_modules/cssnano-util-get-arguments/LICENSE-MIT1522410852000000000 0
 111/home/alexander/Documents/Web Development/ArtStable/node_modules/@babel/helper-compilation-targets/node_modules1625012429460720196 1
-87/home/alexander/Documents/Web Development/ArtStable/dist/music-svgrepo-com.5d02d2ed.svg1626319666851064550 0
+87/home/alexander/Documents/Web Development/ArtStable/dist/music-svgrepo-com.5d02d2ed.svg1626488885947165438 0
 92/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/stable/array-buffer1625012424148759086 1
 134/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-convert-values/node_modules/postcss/docs/guidelines/plugin.md499162500000000000 0
 120/home/alexander/Documents/Web Development/ArtStable/node_modules/jsdom/lib/jsdom/living/helpers/create-event-accessor.js499162500000000000 0
@@ -12155,7 +12155,7 @@
 109/home/alexander/Documents/Web Development/ArtStable/node_modules/@swc/helpers/src/_iterable_to_array_limit.js499162500000000000 0
 130/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-unique-selectors/node_modules/source-map/lib/array-set.js1496683247000000000 0
 98/home/alexander/Documents/Web Development/ArtStable/node_modules/@babel/helper-hoist-variables/lib1625012422736769429 1
-100/home/alexander/Documents/Web Development/ArtStable/dist/Flama Condensed Basic Regular.4c8935e2.woff1626319666863064222 0
+100/home/alexander/Documents/Web Development/ArtStable/dist/Flama Condensed Basic Regular.4c8935e2.woff1626488885983164493 0
 84/home/alexander/Documents/Web Development/ArtStable/node_modules/sha.js/test/test.js1625012423200766030 0
 110/home/alexander/Documents/Web Development/ArtStable/node_modules/@babel/helper-get-function-arity/lib/index.js456789000000000000 0
 99/home/alexander/Documents/Web Development/ArtStable/node_modules/sprintf-js/dist/sprintf.min.js.map1432726881000000000 0
@@ -12167,7 +12167,7 @@
 83/home/alexander/Documents/Web Development/ArtStable/node_modules/is-url/LICENSE-MIT1522088731000000000 0
 92/home/alexander/Documents/Web Development/ArtStable/node_modules/es-abstract/2018/ToInt16.js499162500000000000 0
 85/home/alexander/Documents/Web Development/ArtStable/node_modules/events/tests/once.js499162500000000000 0
-76/home/alexander/Documents/Web Development/ArtStable/sass/layout/_header.scss1626319337465145803 0
+76/home/alexander/Documents/Web Development/ArtStable/sass/layout/_header.scss1626394369223614425 0
 82/home/alexander/Documents/Web Development/ArtStable/node_modules/verror/.npmignore1475636976000000000 0
 100/home/alexander/Documents/Web Development/ArtStable/node_modules/events/tests/special-event-names.js499162500000000000 0
 87/home/alexander/Documents/Web Development/ArtStable/node_modules/color-convert/route.js499162500000000000 0
@@ -12217,7 +12217,7 @@
 108/home/alexander/Documents/Web Development/ArtStable/node_modules/jsdom/lib/jsdom/living/generated/Storage.js499162500000000000 0
 94/home/alexander/Documents/Web Development/ArtStable/node_modules/is-negative-zero/CHANGELOG.md499162500000000000 0
 104/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/stable/string/virtual/substr.js499162500000000000 0
-80/home/alexander/Documents/Web Development/ArtStable/dist/IMG_9264 3.9e44134f.jpg1626319666891063455 0
+80/home/alexander/Documents/Web Development/ArtStable/dist/IMG_9264 3.9e44134f.jpg1626488886027163337 0
 111/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-reduce-initial/node_modules/source-map1625012423392764624 1
 97/home/alexander/Documents/Web Development/ArtStable/node_modules/is-fullwidth-code-point/index.js499162500000000000 0
 81/home/alexander/Documents/Web Development/ArtStable/node_modules/mdn-data/LICENSE499162500000000000 0
@@ -12507,7 +12507,7 @@
 94/home/alexander/Documents/Web Development/ArtStable/node_modules/browserify-zlib/karma.conf.js1496505637000000000 0
 92/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-reduce-initial/data1625012422804768932 1
 94/home/alexander/Documents/Web Development/ArtStable/node_modules/json-schema/draft-02/json-ref1289526444000000000 0
-78/home/alexander/Documents/Web Development/ArtStable/dist/IMG_9203.35bf8631.jpg1626319666883063674 0
+78/home/alexander/Documents/Web Development/ArtStable/dist/IMG_9203.35bf8631.jpg1626488886023163442 0
 121/home/alexander/Documents/Web Development/ArtStable/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFrameSetElement-impl.js499162500000000000 0
 111/home/alexander/Documents/Web Development/ArtStable/node_modules/escodegen/node_modules/source-map/CHANGELOG.md1492467890000000000 0
 100/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-reduce-initial/node_modules1625012421352779570 1
@@ -12561,7 +12561,7 @@
 120/home/alexander/Documents/Web Development/ArtStable/node_modules/purgecss/node_modules/source-map/dist/source-map.min.js1506695999000000000 0
 117/home/alexander/Documents/Web Development/ArtStable/node_modules/jsdom/lib/jsdom/living/nodes/HTMLMetaElement-impl.js499162500000000000 0
 105/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/features/typed-array/includes.js499162500000000000 0
-94/home/alexander/Documents/Web Development/ArtStable/dist/FlamaCondensed-Bold.woff.d48b4ac5.ttf1626319666859064331 0
+94/home/alexander/Documents/Web Development/ArtStable/dist/FlamaCondensed-Bold.woff.d48b4ac5.ttf1626488885951165332 0
 85/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/_baseUnset.js499162500000000000 0
 127/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-normalize-whitespace/node_modules/postcss/package.json499162500000000000 0
 107/home/alexander/Documents/Web Development/ArtStable/node_modules/cssstyle/lib/properties/backgroundImage.js499162500000000000 0
@@ -12943,7 +12943,7 @@
 100/home/alexander/Documents/Web Development/ArtStable/node_modules/es-abstract/2020/thisSymbolValue.js499162500000000000 0
 99/home/alexander/Documents/Web Development/ArtStable/node_modules/htmlnano/lib/modules/minifyJson.js499162500000000000 0
 106/home/alexander/Documents/Web Development/ArtStable/node_modules/cssnano/node_modules/source-map/README.md1506355788000000000 0
-78/home/alexander/Documents/Web Development/ArtStable/dist/IMG_1733.faa7da4f.jpg1626319666887063564 0
+78/home/alexander/Documents/Web Development/ArtStable/dist/IMG_1733.faa7da4f.jpg1626488886027163337 0
 107/home/alexander/Documents/Web Development/ArtStable/node_modules/caniuse-lite/data/features/transforms3d.js499162500000000000 0
 84/home/alexander/Documents/Web Development/ArtStable/node_modules/escape-html/LICENSE1441072761000000000 0
 109/home/alexander/Documents/Web Development/ArtStable/node_modules/@parcel/workers/lib/process/ProcessWorker.js499162500000000000 0
@@ -12994,7 +12994,7 @@
 121/home/alexander/Documents/Web Development/ArtStable/node_modules/expand-brackets/node_modules/extend-shallow/package.json1437089215000000000 0
 128/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-colormin/node_modules/postcss-value-parser/lib/index.js499162500000000000 0
 81/home/alexander/Documents/Web Development/ArtStable/node_modules/cssstyle/scripts1625012423776761811 1
-83/home/alexander/Documents/Web Development/ArtStable/dist/Flama Italic.47df3c56.woff1626319666851064550 0
+83/home/alexander/Documents/Web Development/ArtStable/dist/Flama Italic.47df3c56.woff1626488885975164702 0
 114/home/alexander/Documents/Web Development/ArtStable/node_modules/@parcel/utils/node_modules/ansi-styles/index.d.ts499162500000000000 0
 116/home/alexander/Documents/Web Development/ArtStable/node_modules/jsdom/lib/jsdom/living/generated/HTMLSpanElement.js499162500000000000 0
 89/home/alexander/Documents/Web Development/ArtStable/node_modules/fastq/test/tsconfig.json499162500000000000 0
@@ -13123,7 +13123,7 @@
 99/home/alexander/Documents/Web Development/ArtStable/node_modules/@nodelib/fs.scandir/out/index.d.ts499162500000000000 0
 80/home/alexander/Documents/Web Development/ArtStable/node_modules/ieee754/LICENSE499162500000000000 0
 123/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-reduce-initial/node_modules/source-map/lib/util.js1506458279000000000 0
-86/home/alexander/Documents/Web Development/ArtStable/sass/components/_imageGallery.scss1626230988112381342 0
+86/home/alexander/Documents/Web Development/ArtStable/sass/components/_imageGallery.scss1626488483179308722 0
 106/home/alexander/Documents/Web Development/ArtStable/node_modules/jsdom/lib/jsdom/living/helpers/strings.js499162500000000000 0
 116/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-normalize-unicode/node_modules/postcss/docs1625012423696762397 1
 103/home/alexander/Documents/Web Development/ArtStable/node_modules/jsdom/lib/jsdom/living/helpers/json.js499162500000000000 0
@@ -14013,7 +14013,7 @@
 84/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/lowerCase.js499162500000000000 0
 108/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/es/object/get-own-property-names.js499162500000000000 0
 103/home/alexander/Documents/Web Development/ArtStable/node_modules/uncss/node_modules/commander/Readme.md499162500000000000 0
-97/home/alexander/Documents/Web Development/ArtStable/dist/washing-machine-svgrepo-com.7b32c0fe.svg1626319666851064550 0
+97/home/alexander/Documents/Web Development/ArtStable/dist/washing-machine-svgrepo-com.7b32c0fe.svg1626488885947165438 0
 87/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/_assignValue.js499162500000000000 0
 88/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/_baseToNumber.js499162500000000000 0
 92/home/alexander/Documents/Web Development/ArtStable/node_modules/fragment-cache/package.json1489523814000000000 0
@@ -14549,7 +14549,7 @@
 87/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/fp/toPairsIn.js499162500000000000 0
 94/home/alexander/Documents/Web Development/ArtStable/node_modules/es-abstract/2018/IsPromise.js499162500000000000 0
 124/home/alexander/Documents/Web Development/ArtStable/node_modules/purgecss/node_modules/source-map/lib/source-map-consumer.js1506695946000000000 0
-90/home/alexander/Documents/Web Development/ArtStable/dist/Art Stable-4779 copy.9c78edf7.jpg1626319666883063674 0
+90/home/alexander/Documents/Web Development/ArtStable/dist/Art Stable-4779 copy.9c78edf7.jpg1626488885959165122 0
 86/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/fp/valuesIn.js499162500000000000 0
 84/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/fp/deburr.js499162500000000000 0
 90/home/alexander/Documents/Web Development/ArtStable/node_modules/lodash/fp/mergeAllWith.js499162500000000000 0
@@ -15604,7 +15604,7 @@
 85/home/alexander/Documents/Web Development/ArtStable/node_modules/htmlnano/LICENSE.txt499162500000000000 0
 89/home/alexander/Documents/Web Development/ArtStable/node_modules/queue-microtask/index.js499162500000000000 0
 115/home/alexander/Documents/Web Development/ArtStable/node_modules/cssstyle/lib/properties/webkitTapHighlightColor.js499162500000000000 0
-96/home/alexander/Documents/Web Development/ArtStable/dist/2 bedsArt Stable-4713 copy.f846d962.jpg1626319666883063674 0
+96/home/alexander/Documents/Web Development/ArtStable/dist/2 bedsArt Stable-4713 copy.f846d962.jpg1626488886023163442 0
 114/home/alexander/Documents/Web Development/ArtStable/node_modules/jsdom/lib/jsdom/living/helpers/custom-elements.js499162500000000000 0
 78/home/alexander/Documents/Web Development/ArtStable/node_modules/bl/LICENSE.md499162500000000000 0
 88/home/alexander/Documents/Web Development/ArtStable/node_modules/micromatch/CHANGELOG.md1624925501999283937 0
@@ -16739,7 +16739,7 @@
 140/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-minify-selectors/node_modules/source-map/dist/source-map.min.js.map1506695999000000000 0
 89/home/alexander/Documents/Web Development/ArtStable/node_modules/node-forge/lib/md.all.js499162500000000000 0
 108/home/alexander/Documents/Web Development/ArtStable/node_modules/cssstyle/lib/properties/borderRightWidth.js499162500000000000 0
-97/home/alexander/Documents/Web Development/ArtStable/dist/board-games-set-svgrepo-com.345192bb.svg1626319666863064222 0
+97/home/alexander/Documents/Web Development/ArtStable/dist/board-games-set-svgrepo-com.345192bb.svg1626488885983164493 0
 110/home/alexander/Documents/Web Development/ArtStable/node_modules/@babel/helper-get-function-arity/package.json456789000000000000 0
 103/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/features/json/to-string-tag.js499162500000000000 0
 82/home/alexander/Documents/Web Development/ArtStable/node_modules/qs/lib/formats.js1496129637000000000 0
@@ -16894,7 +16894,7 @@
 80/home/alexander/Documents/Web Development/ArtStable/node_modules/prettier/doc.js499162500000000000 0
 90/home/alexander/Documents/Web Development/ArtStable/node_modules/reusify/benchmarks/fib.js1442009002000000000 0
 92/home/alexander/Documents/Web Development/ArtStable/node_modules/iconv-lite/encodings/tables1625012423460764126 1
-77/home/alexander/Documents/Web Development/ArtStable/sass/components/_nav.scss1626316620167590056 0
+77/home/alexander/Documents/Web Development/ArtStable/sass/components/_nav.scss1626392966585735522 0
 85/home/alexander/Documents/Web Development/ArtStable/node_modules/reusify/package.json1516958863000000000 0
 89/home/alexander/Documents/Web Development/ArtStable/node_modules/querystring-es3/index.js1413226718000000000 0
 85/home/alexander/Documents/Web Development/ArtStable/node_modules/querystring-es3/test1625012423132766529 1
@@ -17195,7 +17195,7 @@
 106/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-modules/node_modules/postcss/docs1625012423700762368 1
 109/home/alexander/Documents/Web Development/ArtStable/node_modules/posthtml-parser/.github/workflows/nodejs.yml499162500000000000 0
 84/home/alexander/Documents/Web Development/ArtStable/node_modules/is-bigint/.eslintrc499162500000000000 0
-79/home/alexander/Documents/Web Development/ArtStable/sass/layout/_offerings.scss1625191035897979704 0
+79/home/alexander/Documents/Web Development/ArtStable/sass/layout/_offerings.scss1626392855475506579 0
 121/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-modules/node_modules/postcss/docs/source-maps.md499162500000000000 0
 106/home/alexander/Documents/Web Development/ArtStable/node_modules/@nodelib/fs.walk/out/providers/index.d.ts499162500000000000 0
 119/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-modules/node_modules/postcss-modules-scope/src1625012422688769781 1
@@ -18485,7 +18485,7 @@
 79/home/alexander/Documents/Web Development/ArtStable/node_modules/once/README.md1473196024000000000 0
 93/home/alexander/Documents/Web Development/ArtStable/node_modules/@parcel/transformer-html/src1625012425404749888 1
 100/home/alexander/Documents/Web Development/ArtStable/node_modules/core-js/modules/esnext.map.merge.js499162500000000000 0
-86/home/alexander/Documents/Web Development/ArtStable/dist/Frontage-Regular.46489d82.otf1626319666863064222 0
+86/home/alexander/Documents/Web Development/ArtStable/dist/Frontage-Regular.46489d82.otf1626488885983164493 0
 89/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-normalize-string1625012422680769841 1
 79/home/alexander/Documents/Web Development/ArtStable/node_modules/browserify-aes1625012423112766675 1
 102/home/alexander/Documents/Web Development/ArtStable/node_modules/postcss-normalize-string/package.json499162500000000000 0

@@ -18,9 +18,11 @@
 .u-center-text {
   text-align: center !important;
 }
+
 .u-margin-bottom-small {
   margin-bottom: 1.5rem !important;
 }
+
 .u-margin-bottom-medium {
   margin-bottom: 4rem !important;
 }
@@ -29,9 +31,11 @@
     margin-bottom: 3rem !important;
   }
 }
+
 .u-margin-bottom-5 {
   margin-bottom: 5rem !important;
 }
+
 .u-margin-bottom-big {
   margin-bottom: 8rem !important;
 }
@@ -40,27 +44,35 @@
     margin-bottom: 5rem !important;
   }
 }
+
 .u-margin-top-small {
   margin-top: 1rem !important;
 }
+
 .u-margin-top-medium {
   margin-top: 3rem !important;
 }
+
 .u-margin-top-big {
   margin-top: 8rem !important;
 }
+
 .u-margin-top-huge {
   margin-top: 10rem !important;
 }
+
 .padding-top-2 {
   padding-top: 2rem;
 }
+
 .padding-bottom-2 {
   padding-bottom: 2rem;
 }
+
 .padding-large {
   padding: 5rem;
 }
+
 *,
 *::after,
 *::before {
@@ -68,6 +80,7 @@
   padding: 0;
   box-sizing: inherit;
 }
+
 html {
   font-size: 62.5%;
   scroll-padding-top: 13rem;
@@ -82,6 +95,7 @@ html {
     font-size: 75%;
   }
 }
+
 body {
   box-sizing: border-box;
   padding: 3rem;
@@ -91,6 +105,7 @@ body {
     padding: 1rem;
   }
 }
+
 body {
   font-family: Flama;
   font-size: 1.2rem;
@@ -99,33 +114,39 @@ body {
   letter-spacing: 1px;
   color: #000;
 }
+
 .nav {
   font-family: Flama Condensed;
   letter-spacing: 3px;
   font-size: 1.8rem;
   text-transform: uppercase;
 }
+
 .heading-primary {
   font-family: Frontage;
   font-size: 2.8rem;
   text-align: center;
 }
+
 .heading-secondary {
   font-family: Frontage;
   font-size: 2rem;
   text-align: center;
 }
+
 .heading-tertiary {
   font-family: Frontage;
   font-size: 1.8rem;
   text-align: center;
 }
+
 .btn {
   font-family: Flama Condensed;
   letter-spacing: 3px;
   font-size: 1.6rem;
   text-transform: uppercase;
 }
+
 .nav {
   white-space: nowrap;
 }
@@ -157,6 +178,7 @@ body {
     opacity: 0;
   }
 }
+
 .btn {
   padding: 1.2rem 3rem;
   border: none;
@@ -173,6 +195,7 @@ body {
   background-color: #000;
   color: #fff;
 }
+
 .card {
   position: relative;
   height: 52rem;
@@ -198,13 +221,13 @@ body {
   border-top-right-radius: 3px;
 }
 .card__picture--1 {
-  background-image: url("IMG_9269.278a8960.jpg");
+  background-image: url("/img/artstabledata/IMG_9269.jpg");
 }
 .card__picture--2 {
-  background-image: url("IMG_9264%203.9e44134f.jpg");
+  background-image: url("/img/artstabledata/IMG_9264 3.jpg");
 }
 .card__picture--3 {
-  background-image: url("CocoOnStairs.7d366ae0.jpg");
+  background-image: url("/img/artstabledata/CocoOnStairs.jpg");
 }
 .card__heading {
   font-size: 2.8rem;
@@ -226,6 +249,7 @@ body {
   text-align: center;
   padding: 3rem;
 }
+
 .slider {
   max-width: 100rem;
   height: 50rem;
@@ -234,6 +258,7 @@ body {
   /* IN THE END */
   overflow: hidden;
 }
+
 .slide {
   position: absolute;
   top: 0;
@@ -244,6 +269,7 @@ body {
   justify-content: center;
   transition: transform 1s;
 }
+
 .slider__btn {
   position: absolute;
   top: 40%;
@@ -266,6 +292,7 @@ body {
   right: -8%;
   transform: translate(50%, -50%);
 }
+
 .dots {
   position: absolute;
   bottom: 5%;
@@ -291,9 +318,11 @@ body {
   background-color: #888;
   opacity: 1;
 }
+
 .wrapper {
   padding: 0 1rem;
 }
+
 .grid {
   display: flex;
   flex-wrap: wrap;
@@ -304,10 +333,12 @@ body {
     display: unset;
   }
 }
+
 .responsive-image {
   width: 275px;
   height: 250px;
 }
+
 .cell {
   display: block;
   width: calc(25% - 2rem);
@@ -333,6 +364,7 @@ body {
     width: 100%;
   }
 }
+
 .form__input {
   font-size: 1.5rem;
   font-family: inherit;
@@ -353,6 +385,7 @@ body {
 .form__textarea {
   height: 10rem;
 }
+
 .navigation__button {
   height: 6rem;
   width: 6rem;
@@ -448,9 +481,11 @@ body {
 .navigation__button:hover .navigation__icon::after {
   top: 1rem;
 }
+
 .hide {
   opacity: 0;
 }
+
 .header {
   background-color: white;
   width: 100%;
@@ -459,6 +494,7 @@ body {
   position: fixed;
   z-index: 100;
 }
+
 .logo {
   padding-top: 2rem;
   background-color: white;
@@ -472,6 +508,7 @@ body {
     height: 8rem;
   }
 }
+
 .nav {
   position: fixed;
   right: 0;
@@ -490,6 +527,7 @@ body {
   text-decoration: none;
   padding: 1.5rem 3rem;
 }
+
 .welcome__text {
   width: 50%;
   margin: auto;
@@ -535,14 +573,17 @@ body {
     margin: auto;
   }
 }
+
 .paragraph {
   margin-top: 2rem;
 }
+
 .row {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
 }
+
 .column {
   display: flex;
   flex-direction: column;
@@ -554,6 +595,7 @@ body {
     flex: 0 0 100%;
   }
 }
+
 .offerings {
   margin-top: 5rem;
 }
@@ -565,9 +607,11 @@ body {
   width: 5rem;
   height: 5rem;
 }
+
 .rates {
   margin-top: 5rem;
 }
+
 .policy-details {
   padding: 3rem;
 }
@@ -585,25 +629,30 @@ body {
 .policy-details ul li:not(:last-child) {
   border-bottom: 1px solid #eee;
 }
+
 .reviews {
   width: 65%;
   position: relative;
   margin: 5rem auto;
 }
+
 .review__text {
   margin-bottom: 3.5rem;
   font-size: 1.7rem;
 }
+
 .review__author {
   margin-left: 3rem;
   font-style: normal;
   display: flex;
 }
+
 .review__photo {
   width: 7.5rem;
   height: 7.5rem;
   border-radius: 50%;
 }
+
 .review__author-date {
   display: flex;
   flex-direction: column;
@@ -611,6 +660,7 @@ body {
   margin-bottom: auto;
   margin-left: 2rem;
 }
+
 .contact {
   margin-top: 5rem;
   padding: 10rem 0;
@@ -659,6 +709,7 @@ body {
 .contact__address {
   margin-top: 3rem;
 }
+
 .footer {
   background-color: #fff;
   width: 100%;
@@ -675,16 +726,18 @@ body {
     width: 90%;
   }
 }
+
 .container {
   max-width: 114rem;
   margin: 0 auto;
 }
+
 .hero {
   height: 80rem;
   margin-top: 2rem;
 }
 .hero__image {
-  background-image: url("Living%20Art%20Stable-4676%20copy.d79cfe63.jpg");
+  background-image: url("/img/artstabledata/Living Art Stable-4676 copy.jpg");
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
@@ -696,7 +749,9 @@ body {
     height: 40rem;
   }
 }
+
 .welcome {
   margin-top: 6rem;
 }
-/*# sourceMappingURL=index.35745f5c.css.map */
+
+/*# sourceMappingURL=style.comp.css.map */

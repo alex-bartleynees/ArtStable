@@ -30,6 +30,10 @@
     padding: 10rem 0;
   }
 
+  @include respond(phone) {
+    padding: 0;
+  }
+
   &__form {
     width: 50%;
     padding: 5rem 0;
@@ -45,6 +49,10 @@
 
   &__phone {
     margin-top: 8rem;
+
+    @include respond(phone) {
+      margin-top: 3rem;
+    }
   }
 
   &__address {

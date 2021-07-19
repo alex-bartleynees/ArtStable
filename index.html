@@ -9,7 +9,8 @@
     />
     <link rel="stylesheet" type="text/css" href="./fonts/fonts.css" />
     <link rel="stylesheet" href="./sass/main.scss" />
-    <script src="script.js" async></script>
+    <!-- <link rel="stylesheet" href="./css/output.css" /> -->
+
     <title>Art Stable</title>
   </head>
   <body>
@@ -46,11 +47,12 @@
 
       <div class="navigation__button">
         <span class="navigation__icon">&nbsp;</span>
+        <span class="navigation__icon--1 closeNav hide">&nbsp;</span>
       </div>
 
-      <div class="navigation__background">&nbsp;</div>
+      <div class="navigation__background hide">&nbsp;</div>
 
-      <nav class="navigation__nav">
+      <nav class="navigation__nav hide">
         <ul class="navigation__list">
           <li class="nav__item">
             <a class="nav__link" href="#section--1">Welcome</a>
@@ -119,9 +121,11 @@
           <div class="row">
             <div class="column">
               <img
-                src="/img/artstabledata/IMG_9203.jpg"
+                src=""
+                data-src="/img/artstabledata/IMG_9203.jpg"
                 alt=""
                 class="welcome__image"
+                data-lazy-load
               />
             </div>
             <div class="column">
@@ -500,86 +504,110 @@
             <div class="grid">
               <div class="cell">
                 <img
-                  src="img/artstabledata/AB_2012-10-31_5461 copy 2.jpg"
+                  src="./img/placeholder .jpeg"
+                  data-src="img/artstabledata/AB_2012-10-31_5461 copy 2.jpg"
                   alt=""
                   class="responsive-image"
+                  data-lazy-load
                 />
               </div>
               <div class="cell">
                 <img
-                  src="img/artstabledata/Art Stable-4770 copy.jpg"
+                  src="./img/placeholder .jpeg"
+                  data-src="img/artstabledata/Art Stable-4770 copy.jpg"
                   alt=""
                   class="responsive-image"
+                  data-lazy-load
                 />
               </div>
               <div class="cell">
                 <img
-                  src="img/artstabledata/IMG_1728.jpg"
+                  src="./img/placeholder .jpeg"
+                  data-src="img/artstabledata/IMG_1728.jpg"
                   alt=""
                   class="responsive-image"
+                  data-lazy-load
                 />
               </div>
               <div class="cell">
                 <img
-                  src="img/artstabledata/IMG_1733.jpg"
+                  src="./img/placeholder .jpeg"
+                  data-src="img/artstabledata/IMG_1733.jpg"
                   alt=""
                   class="responsive-image"
+                  data-lazy-load
                 />
               </div>
               <div class="cell">
                 <img
-                  src="img/artstabledata/IMG_9203.jpg"
+                  src="./img/placeholder .jpeg"
+                  data-src="./img/artstabledata/IMG_9203.jpg"
                   alt=""
                   class="responsive-image"
+                  data-lazy-load
                 />
               </div>
               <div class="cell">
                 <img
-                  src="img/artstabledata/IMG_9269.jpg"
+                  src="./img/placeholder .jpeg"
+                  data-src="img/artstabledata/IMG_9269.jpg"
                   alt=""
                   class="responsive-image"
+                  data-lazy-load
                 />
               </div>
               <div class="cell">
                 <img
-                  src="img/artstabledata/IMG_1723 2.jpg"
+                  src="./img/placeholder .jpeg"
+                  data-src="img/artstabledata/IMG_1723 2.jpg"
                   alt=""
                   class="responsive-image"
+                  data-lazy-load
                 />
               </div>
               <div class="cell">
                 <img
-                  src="img/artstabledata/IMG_9264 3.jpg"
+                  src="./img/placeholder .jpeg"
+                  data-src="img/artstabledata/IMG_9264 3.jpg"
                   alt=""
                   class="responsive-image"
+                  data-lazy-load
                 />
               </div>
               <div class="cell">
                 <img
-                  src="img/artstabledata/Art Stable-4779 copy.jpg"
+                  src="./img/placeholder .jpeg"
+                  data-src="img/artstabledata/Art Stable-4779 copy.jpg"
                   alt=""
                   class="responsive-image"
+                  data-lazy-load
                 />
               </div>
               <div class="cell">
                 <img
-                  src="img/artstabledata/2 bedsArt Stable-4713 copy.jpg"
+                  src="./img/placeholder .jpeg"
+                  data-src="img/artstabledata/2 bedsArt Stable-4713 copy.jpg"
                   alt=""
                   class="responsive-image"
+                  data-lazy-load
                 />
               </div>
               <div class="cell">
                 <img
-                  src="img/artstabledata/Living Art Stable-4676 copy.jpg"
+                  src="./img/placeholder .jpeg"
+                  data-src="img/artstabledata/Living Art Stable-4676 copy.jpg"
                   alt=""
                   class="responsive-image"
+                  data-lazy-load
                 />
               </div>
               <div class="cell">
                 <img
-                  src="img/artstabledata/56A Ghuznee Street Web-16 copy.jpg"
+                  src="./img/placeholder .jpeg"
+                  data-src="img/artstabledata/56A Ghuznee Street Web-16 copy.jpg"
                   alt=""
                   class="responsive-image"
+                  data-lazy-load
                 />
               </div>
             </div>
@@ -645,6 +673,11 @@
             </div>
           </div>
         </section>
+        <div class="popup__background hide">&nbsp;</div>
+        <div class="popup hide">
+          <span class="popup__btn">&nbsp;</span>
+          <img src="./img/artstabledata/AB_2012-10-31_5461 copy 2.jpg" alt="" />
+        </div>
       </main>
       <footer class="footer">
         <a
@@ -654,5 +687,6 @@
         >
       </footer>
     </div>
+    <script src="./script.js"></script>
   </body>
 </html>

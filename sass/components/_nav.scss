@@ -1,6 +1,7 @@
 @use "../abstracts/" as *;
 
 .nav {
+  white-space: nowrap;
   &__item {
     position: relative;
   }

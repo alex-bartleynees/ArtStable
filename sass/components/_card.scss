@@ -12,6 +12,10 @@
   margin: auto;
   margin-bottom: 3rem;
 
+  @include respond(phone) {
+    width: 60%;
+  }
+
   &__picture {
     background-size: cover;
     height: 23rem;

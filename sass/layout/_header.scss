@@ -16,6 +16,10 @@
   right: 0;
   left: 0;
   position: fixed;
+
+  @include respond(phone) {
+    height: 8rem;
+  }
 }
 
 .nav {

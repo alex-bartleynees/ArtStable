@@ -1,3 +1,5 @@
+@use "../abstracts/" as *;
+
 .container {
   max-width: 114rem;
   margin: 0 auto;
@@ -13,6 +15,10 @@
     background-repeat: no-repeat;
     height: 100%;
     width: 100%;
+  }
+
+  @include respond(phone) {
+    height: 40rem;
   }
 }
 
