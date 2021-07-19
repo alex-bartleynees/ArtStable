@@ -2,7 +2,7 @@
   "name": "artstable",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "dev": "npm-run-all --parallel live-server watch:sass",
     "live-server": "live-server",
