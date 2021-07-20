@@ -40,11 +40,19 @@
   &--left {
     left: -8%;
     transform: translate(-50%, -50%);
+
+    @include respond(phone) {
+      left: -15%;
+    }
   }
 
   &--right {
     right: -8%;
     transform: translate(50%, -50%);
+
+    @include respond(phone) {
+      right: -15%;
+    }
   }
 }
 .dots {

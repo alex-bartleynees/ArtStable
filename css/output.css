@@ -301,9 +301,19 @@ body {
   left: -8%;
   transform: translate(-50%, -50%);
 }
+@media only screen and (max-width: 37.5em) {
+  .slider__btn--left {
+    left: -15%;
+  }
+}
 .slider__btn--right {
   right: -8%;
   transform: translate(50%, -50%);
+}
+@media only screen and (max-width: 37.5em) {
+  .slider__btn--right {
+    right: -15%;
+  }
 }
 
 .dots {
