@@ -113,14 +113,15 @@ const navIcon = document.querySelector(".navigation__icon");
 const navBackground = document.querySelector(".navigation__background");
 const navigationNav = document.querySelector(".navigation__nav");
 
-const openNav = function () {
+const toggleNav = function () {
   navBackground.classList.toggle("hide");
   navigationNav.classList.toggle("hide");
   navIcon.classList.toggle("hide");
   navButton1.classList.toggle("hide");
 };
 
-navButton.addEventListener("click", openNav);
+navButton.addEventListener("click", toggleNav);
+navBackground.addEventListener("click", toggleNav);
 
 // Image pop ups
 
@@ -179,3 +180,12 @@ const observer = new IntersectionObserver(loadImg);
 document.querySelectorAll("[data-lazy-load]").forEach(function (img) {
   observer.observe(img);
 });
+
+// Slide into view
+const footer = document.querySelector(".footer");
+let scrollPos = 0;
+function showFooter() {
+  footer.classList.remove("hide");
+}
+
+document.addEventListener("scroll", showFooter, { passive: true });
