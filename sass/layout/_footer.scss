@@ -6,9 +6,7 @@
   max-width: 114rem;
   height: 5rem;
   bottom: 0;
-  animation-name: moveInBottom;
-  animation-duration: 2s;
-  animation-timing-function: ease-out;
+
   position: fixed;
   display: flex;
   justify-content: flex-end;
@@ -17,4 +15,10 @@
   @include respond(tab-port) {
     width: 90%;
   }
+}
+
+.animation {
+  animation-name: moveInBottom;
+  animation-duration: 2s;
+  animation-timing-function: ease-out;
 }

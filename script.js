@@ -183,8 +183,9 @@ document.querySelectorAll("[data-lazy-load]").forEach(function (img) {
 
 // Slide into view
 const footer = document.querySelector(".footer");
-let scrollPos = 0;
+
 function showFooter() {
+  footer.classList.add("animation");
   footer.classList.remove("hide");
 }
 
