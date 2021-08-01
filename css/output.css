@@ -234,13 +234,13 @@ body {
   border-top-right-radius: 3px;
 }
 .card__picture--1 {
-  background-image: url("https://ik.imagekit.io/7i4mfuqa7z9/IMG_9269_bv-L7Wyckm.jpg");
+  background-image: url("https://ik.imagekit.io/7i4mfuqa7z9/Art_Stable-4770_copy_6Oqt7w4N7.jpg?updatedAt=1626663489969");
 }
 .card__picture--2 {
-  background-image: url("https://ik.imagekit.io/7i4mfuqa7z9/IMG_9264_3_cOCL8BFvl.jpg");
+  background-image: url("https://ik.imagekit.io/7i4mfuqa7z9/Art_Stable-4779_copy_huIl0N4Hhe.jpg?updatedAt=1626663503038");
 }
 .card__picture--3 {
-  background-image: url("https://ik.imagekit.io/7i4mfuqa7z9/CocoOnStairs_Ijn4itO2O.jpg");
+  background-image: url("https://ik.imagekit.io/7i4mfuqa7z9/outside1_HrB_kL41C7v.jpg?updatedAt=1627855097013");
 }
 .card__heading {
   font-size: 2.8rem;
@@ -836,9 +836,6 @@ body {
   max-width: 114rem;
   height: 5rem;
   bottom: 0;
-  animation-name: moveInBottom;
-  animation-duration: 2s;
-  animation-timing-function: ease-out;
   position: fixed;
   display: flex;
   justify-content: flex-end;
@@ -848,6 +845,12 @@ body {
   .footer {
     width: 90%;
   }
+}
+
+.animation {
+  animation-name: moveInBottom;
+  animation-duration: 2s;
+  animation-timing-function: ease-out;
 }
 
 .container {
