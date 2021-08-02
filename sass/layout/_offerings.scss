@@ -1,5 +1,16 @@
+@use "../abstracts/" as *;
+
 .offerings {
   margin-top: 5rem;
+
+  &__container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+    @include respond(phone) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
 
   &__info {
     padding: 3rem 3rem;

@@ -718,6 +718,15 @@ body {
 .offerings {
   margin-top: 5rem;
 }
+.offerings__container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+@media only screen and (max-width: 37.5em) {
+  .offerings__container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
 .offerings__info {
   padding: 3rem 3rem;
   text-align: center;
