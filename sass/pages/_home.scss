@@ -8,6 +8,7 @@
 .hero {
   height: 80rem;
   margin-top: 2rem;
+
   &__image {
     background-image: url("https://ik.imagekit.io/7i4mfuqa7z9/Living_Art_Stable-4676_copy_65zEMonRu.jpg");
     background-size: cover;
@@ -15,6 +16,7 @@
     background-repeat: no-repeat;
     height: 100%;
     width: 100%;
+    transition: all 1s;
   }
 
   @include respond(phone) {

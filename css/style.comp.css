@@ -86,6 +86,14 @@
     transform: translate(0);
   }
 }
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
 *,
 *::after,
 *::before {
@@ -96,7 +104,7 @@
 
 html {
   font-size: 62.5%;
-  scroll-padding-top: 13rem;
+  scroll-padding-top: 15rem;
 }
 @media only screen and (max-width: 56.25em) {
   html {
@@ -234,13 +242,13 @@ body {
   border-top-right-radius: 3px;
 }
 .card__picture--1 {
-  background-image: url("https://ik.imagekit.io/7i4mfuqa7z9/IMG_9269_bv-L7Wyckm.jpg");
+  background-image: url("https://ik.imagekit.io/7i4mfuqa7z9/Art_Stable-4770_copy_6Oqt7w4N7.jpg?updatedAt=1626663489969");
 }
 .card__picture--2 {
-  background-image: url("https://ik.imagekit.io/7i4mfuqa7z9/IMG_9264_3_cOCL8BFvl.jpg");
+  background-image: url("https://ik.imagekit.io/7i4mfuqa7z9/B_C_LizzieSnowPhotography_15_crop_P41GdR3cd1w.jpg?updatedAt=1628116698667");
 }
 .card__picture--3 {
-  background-image: url("https://ik.imagekit.io/7i4mfuqa7z9/CocoOnStairs_Ijn4itO2O.jpg");
+  background-image: url("https://ik.imagekit.io/7i4mfuqa7z9/outside1_HrB_kL41C7v.jpg?updatedAt=1627855097013");
 }
 .card__heading {
   font-size: 2.8rem;
@@ -608,7 +616,7 @@ body {
 .header {
   background-color: white;
   width: 100%;
-  height: 13rem;
+  height: 15rem;
   top: 0;
   position: fixed;
   z-index: 100;
@@ -633,6 +641,7 @@ body {
   right: 0;
   left: 0;
   z-index: 100;
+  margin: 1rem;
 }
 .nav__list {
   display: flex;
@@ -716,7 +725,16 @@ body {
 }
 
 .offerings {
-  margin-top: 5rem;
+  margin-top: 8rem;
+}
+.offerings__container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+@media only screen and (max-width: 37.5em) {
+  .offerings__container {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 .offerings__info {
   padding: 3rem 3rem;
@@ -869,6 +887,7 @@ body {
   background-repeat: no-repeat;
   height: 100%;
   width: 100%;
+  transition: all 1s;
 }
 @media only screen and (max-width: 37.5em) {
   .hero {

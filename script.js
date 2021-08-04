@@ -190,3 +190,29 @@ function showFooter() {
 }
 
 document.addEventListener("scroll", showFooter, { passive: true });
+
+// Image slideshow
+
+const images = [
+  "https://ik.imagekit.io/7i4mfuqa7z9/Living_Art_Stable-4676_copy_65zEMonRu.jpg",
+  "https://ik.imagekit.io/7i4mfuqa7z9/kingbed_sNsJUIZjDxK.jpg?updatedAt=1627855090662",
+  "https://ik.imagekit.io/7i4mfuqa7z9/kitchen-slide_nia0MlDpGLk.jpg?updatedAt=1628116881005",
+];
+
+let index = 0;
+
+const heroImage = document.querySelector(".hero__image");
+
+function slideShow() {
+  if (index >= images.length) {
+    index = 0;
+  }
+
+  heroImage.style.backgroundImage = 'url("' + images[index++] + '")';
+
+  setTimeout(() => {
+    slideShow();
+  }, 6000);
+}
+
+slideShow();
