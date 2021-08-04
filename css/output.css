@@ -879,6 +879,9 @@ body {
 .hero {
   height: 80rem;
   margin-top: 2rem;
+  animation-name: fadein;
+  animation-duration: 2s;
+  animation-timing-function: ease-in;
 }
 .hero__image {
   background-image: url("https://ik.imagekit.io/7i4mfuqa7z9/Living_Art_Stable-4676_copy_65zEMonRu.jpg");
