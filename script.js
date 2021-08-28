@@ -1,23 +1,23 @@
 // Smooth scrolling
 
-document.querySelector(".nav__list").addEventListener("click", function (e) {
+document.querySelector('.nav__list').addEventListener('click', function (e) {
   e.preventDefault();
 
-  if (e.target.classList.contains("nav__link")) {
-    const id = e.target.getAttribute("href");
+  if (e.target.classList.contains('nav__link')) {
+    const id = e.target.getAttribute('href');
 
-    id !== "#" &&
-      document.querySelector(id).scrollIntoView({ behavior: "smooth" });
+    id !== '#' &&
+      document.querySelector(id).scrollIntoView({ behavior: 'smooth' });
   }
 });
 
 // Slider
 
 const sliders = function () {
-  const slides = document.querySelectorAll(".slide");
-  const btnLeft = document.querySelector(".slider__btn--left");
-  const btnRight = document.querySelector(".slider__btn--right");
-  const dotContainer = document.querySelector(".dots");
+  const slides = document.querySelectorAll('.slide');
+  const btnLeft = document.querySelector('.slider__btn--left');
+  const btnRight = document.querySelector('.slider__btn--right');
+  const dotContainer = document.querySelector('.dots');
 
   let curSlide = 0;
   const maxSlide = slides.length;
@@ -25,7 +25,7 @@ const sliders = function () {
   const createDots = function () {
     slides.forEach((_, i) => {
       dotContainer.insertAdjacentHTML(
-        "beforeend",
+        'beforeend',
         `<button class="dots__dot" data-slide="${i}"></button>`
       );
     });
@@ -33,12 +33,12 @@ const sliders = function () {
 
   const activateDot = function (slide) {
     document
-      .querySelectorAll(".dots__dot")
-      .forEach((dot) => dot.classList.remove("dots__dot--active"));
+      .querySelectorAll('.dots__dot')
+      .forEach((dot) => dot.classList.remove('dots__dot--active'));
 
     document
       .querySelector(`.dots__dot[data-slide="${slide}"]`)
-      .classList.add("dots__dot--active");
+      .classList.add('dots__dot--active');
   };
 
   const goToSlide = function (slide) {
@@ -79,23 +79,23 @@ const sliders = function () {
 
   //Event Handlers
 
-  btnRight.addEventListener("click", nextSlide);
-  btnLeft.addEventListener("click", prevSlide);
+  btnRight.addEventListener('click', nextSlide);
+  btnLeft.addEventListener('click', prevSlide);
 
-  document.addEventListener("keydown", function (e) {
+  document.addEventListener('keydown', function (e) {
     switch (e.key) {
-      case "ArrowLeft":
+      case 'ArrowLeft':
         prevSlide();
         break;
 
-      case "ArrowRight":
+      case 'ArrowRight':
         nextSlide();
         break;
     }
   });
 
-  dotContainer.addEventListener("click", function (e) {
-    if (e.target.classList.contains("dots__dot")) {
+  dotContainer.addEventListener('click', function (e) {
+    if (e.target.classList.contains('dots__dot')) {
       const { slide } = e.target.dataset;
       goToSlide(slide);
       activateDot(slide);
@@ -107,58 +107,58 @@ sliders();
 
 // Mobile Nav
 
-const navButton = document.querySelector(".navigation__button");
-const navButton1 = document.querySelector(".closeNav");
-const navIcon = document.querySelector(".navigation__icon");
-const navBackground = document.querySelector(".navigation__background");
-const navigationNav = document.querySelector(".navigation__nav");
+const navButton = document.querySelector('.navigation__button');
+const navButton1 = document.querySelector('.closeNav');
+const navIcon = document.querySelector('.navigation__icon');
+const navBackground = document.querySelector('.navigation__background');
+const navigationNav = document.querySelector('.navigation__nav');
 
 const toggleNav = function () {
-  navBackground.classList.toggle("hide");
-  navigationNav.classList.toggle("hide");
-  navIcon.classList.toggle("hide");
-  navButton1.classList.toggle("hide");
+  navBackground.classList.toggle('hide');
+  navigationNav.classList.toggle('hide');
+  navIcon.classList.toggle('hide');
+  navButton1.classList.toggle('hide');
 };
 
-navButton.addEventListener("click", toggleNav);
-navBackground.addEventListener("click", toggleNav);
+navButton.addEventListener('click', toggleNav);
+navBackground.addEventListener('click', toggleNav);
 
 // Image pop ups
 
-const grid = document.querySelector(".grid");
-const popup = document.querySelector(".popup");
-const popupButton = document.querySelector(".popup__btn");
-const popUpBackground = document.querySelector(".popup__background");
+const gallery = document.querySelector('.gallery');
+const popup = document.querySelector('.popup');
+const popupButton = document.querySelector('.popup__btn');
+const popUpBackground = document.querySelector('.popup__background');
 
 const openPopup = function (e) {
-  popup.classList.remove("hide");
-  popUpBackground.classList.remove("hide");
-  navButton.classList.add("hide");
+  popup.classList.remove('hide');
+  popUpBackground.classList.remove('hide');
+  navButton.classList.add('hide');
   popup.children[1].src = e.target.src;
 };
 
 const closePopup = function () {
-  popup.classList.add("hide");
-  navButton.classList.remove("hide");
-  popUpBackground.classList.add("hide");
+  popup.classList.add('hide');
+  navButton.classList.remove('hide');
+  popUpBackground.classList.add('hide');
 };
 
-grid.addEventListener("click", function (e) {
-  if (e.target.classList.contains("responsive-image")) {
+gallery.addEventListener('click', function (e) {
+  if (e.target.classList.contains('responsive-image')) {
     openPopup(e);
   }
 });
 
-popupButton.addEventListener("click", function () {
+popupButton.addEventListener('click', function () {
   closePopup();
 });
 
-popUpBackground.addEventListener("click", closePopup);
+popUpBackground.addEventListener('click', closePopup);
 
-document.addEventListener("keydown", function (e) {
-  if (e.key === "Escape" && !popUpBackground.classList.contains("hide")) {
-    popUpBackground.classList.add("hide");
-    popup.classList.add("hide");
+document.addEventListener('keydown', function (e) {
+  if (e.key === 'Escape' && !popUpBackground.classList.contains('hide')) {
+    popUpBackground.classList.add('hide');
+    popup.classList.add('hide');
   }
 });
 
@@ -166,42 +166,42 @@ document.addEventListener("keydown", function (e) {
 
 const loadImg = function (entries) {
   entries.forEach(function (entry) {
-    if (entry.target.getAttribute("data-processed") || !entry.isIntersecting)
+    if (entry.target.getAttribute('data-processed') || !entry.isIntersecting)
       return true;
 
-    entry.target.setAttribute("src", entry.target.getAttribute("data-src"));
+    entry.target.setAttribute('src', entry.target.getAttribute('data-src'));
 
-    entry.target.setAttribute("data-processed", true);
+    entry.target.setAttribute('data-processed', true);
   });
 };
 
 const observer = new IntersectionObserver(loadImg);
 
-document.querySelectorAll("[data-lazy-load]").forEach(function (img) {
+document.querySelectorAll('[data-lazy-load]').forEach(function (img) {
   observer.observe(img);
 });
 
 // Slide into view
-const footer = document.querySelector(".footer");
+const footer = document.querySelector('.footer');
 
 function showFooter() {
-  footer.classList.add("animation");
-  footer.classList.remove("hide");
+  footer.classList.add('animation');
+  footer.classList.remove('hide');
 }
 
-document.addEventListener("scroll", showFooter, { passive: true });
+document.addEventListener('scroll', showFooter, { passive: true });
 
 // Image slideshow
 
 const images = [
-  "https://ik.imagekit.io/7i4mfuqa7z9/Living_Art_Stable-4676_copy_65zEMonRu.jpg",
-  "https://ik.imagekit.io/7i4mfuqa7z9/kingbed_sNsJUIZjDxK.jpg?updatedAt=1627855090662",
-  "https://ik.imagekit.io/7i4mfuqa7z9/kitchen-slide_nia0MlDpGLk.jpg?updatedAt=1628116881005",
+  'https://ik.imagekit.io/7i4mfuqa7z9/Living_Art_Stable-4676_copy_65zEMonRu.jpg',
+  'https://ik.imagekit.io/7i4mfuqa7z9/kingbed_sNsJUIZjDxK.jpg?updatedAt=1627855090662',
+  'https://ik.imagekit.io/7i4mfuqa7z9/kitchen-slide_nia0MlDpGLk.jpg?updatedAt=1628116881005',
 ];
 
 let index = 0;
 
-const heroImage = document.querySelector(".hero__image");
+const heroImage = document.querySelector('.hero__image');
 
 function slideShow() {
   if (index >= images.length) {
