@@ -195,20 +195,26 @@ document.addEventListener("scroll", showFooter, { passive: true });
 
 const images = [
   "./img/art stable compressed/Bedroom 1.jpg",
-  "./img/art stable compressed/Lounge 1.jpg",
   "./img/art stable compressed/Lounge window view 1.jpg",
+  "./img/art stable compressed/Lounge window view 2.jpg",
 ];
+
+const loadedImages = new Array();
+for (let i = 0; i < images.length; i++) {
+  loadedImages[i] = new Image();
+  loadedImages[i].src = images[i];
+}
 
 let index = 0;
 
 const heroImage = document.querySelector(".hero__image");
 
 function slideShow() {
-  if (index >= images.length) {
+  if (index >= loadedImages.length) {
     index = 0;
   }
 
-  heroImage.style.backgroundImage = 'url("' + images[index++] + '")';
+  heroImage.style.backgroundImage = 'url("' + loadedImages[index++].src + '")';
 
   setTimeout(() => {
     slideShow();
