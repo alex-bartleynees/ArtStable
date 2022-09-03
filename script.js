@@ -214,7 +214,7 @@ function slideShow() {
     index = 0;
   }
 
-  heroImage?.style.backgroundImage = 'url("' + loadedImages[index++].src + '")';
+  heroImage.style.backgroundImage = 'url("' + loadedImages[index++].src + '")';
 
   setTimeout(() => {
     slideShow();
