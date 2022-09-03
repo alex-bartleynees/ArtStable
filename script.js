@@ -185,8 +185,8 @@ document.querySelectorAll("[data-lazy-load]").forEach(function (img) {
 const footer = document.querySelector(".footer");
 
 function showFooter() {
-  footer.classList.add("animation");
-  footer.classList.remove("hide");
+  footer?.classList.add("animation");
+  footer?.classList.remove("hide");
 }
 
 document.addEventListener("scroll", showFooter, { passive: true });
@@ -214,7 +214,7 @@ function slideShow() {
     index = 0;
   }
 
-  heroImage.style.backgroundImage = 'url("' + loadedImages[index++].src + '")';
+  heroImage?.style.backgroundImage = 'url("' + loadedImages[index++].src + '")';
 
   setTimeout(() => {
     slideShow();
