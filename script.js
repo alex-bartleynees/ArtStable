@@ -79,8 +79,8 @@ const sliders = function () {
 
   //Event Handlers
 
-  btnRight.addEventListener("click", nextSlide);
-  btnLeft.addEventListener("click", prevSlide);
+  btnRight?.addEventListener("click", nextSlide);
+  btnLeft?.addEventListener("click", prevSlide);
 
   document.addEventListener("keydown", function (e) {
     switch (e.key) {
