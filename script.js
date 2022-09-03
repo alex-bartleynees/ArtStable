@@ -38,7 +38,7 @@ const sliders = function () {
 
     document
       .querySelector(`.dots__dot[data-slide="${slide}"]`)
-      .classList.add("dots__dot--active");
+      ?.classList.add("dots__dot--active");
   };
 
   const goToSlide = function (slide) {
@@ -94,7 +94,7 @@ const sliders = function () {
     }
   });
 
-  dotContainer.addEventListener("click", function (e) {
+  dotContainer?.addEventListener("click", function (e) {
     if (e.target.classList.contains("dots__dot")) {
       const { slide } = e.target.dataset;
       goToSlide(slide);
@@ -143,17 +143,17 @@ const closePopup = function () {
   popUpBackground.classList.add("hide");
 };
 
-gallery.addEventListener("click", function (e) {
+gallery?.addEventListener("click", function (e) {
   if (e.target.classList.contains("responsive-image")) {
     openPopup(e);
   }
 });
 
-popupButton.addEventListener("click", function () {
+popupButton?.addEventListener("click", function () {
   closePopup();
 });
 
-popUpBackground.addEventListener("click", closePopup);
+popUpBackground?.addEventListener("click", closePopup);
 
 document.addEventListener("keydown", function (e) {
   if (e.key === "Escape" && !popUpBackground.classList.contains("hide")) {
